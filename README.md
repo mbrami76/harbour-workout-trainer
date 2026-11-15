@@ -43,17 +43,13 @@ sfdk -c target=SailfishOS-5.1.0.11-i486 build-shell make check
 
 ### Speech announcements
 
-The spoken announcements need a speech engine (sherpa-onnx and ONNX Runtime libraries, eSpeak NG data and two voices, about 50 MB installed). They are not part of this repository. They are packed into a speech bundle, one archive with a checksum and a manifest, that is attached to a release of this repository. Release builds for the phone (aarch64) use it.
+The spoken announcements need a speech engine (sherpa-onnx and ONNX Runtime libraries, eSpeak NG data and two voices, about 50 MB unpacked). They are not part of this repository. They are packed into a speech bundle, one archive with a checksum and a manifest, that is attached to a release of this repository (the release with the tag `speech-bundle-1`). Builds for the phone (aarch64) use it; its release notes list the contents, versions, licences, size and checksum.
 
-Fetch and unpack it with:
+To use it, download the archive, check its SHA-256 against the one in the release notes and unpack it into any folder (steps are in the release notes). That folder is the speech root: set the environment variable `RT_SPEECH_ROOT` to its absolute path when you build for aarch64. If the variable is not set, the project file looks for the folder `build/speech-libs` two levels above the `app` folder, that is next to the source folder. The qmake output states whether the engine is on and which root was used.
 
-```
-tools/fetch-speech-bundle.sh [directory]
-```
+The script `tools/fetch-speech-bundle.sh [directory]` does the download, the check and the unpacking: it takes the file name, URL and checksum from `tools/speech-bundle.conf` and unpacks into the directory given, by default `../build/speech-libs` next to the source folder. It does nothing if that directory already holds the bundle.
 
-The script downloads the file named in `tools/speech-bundle.conf`, checks its SHA-256 and unpacks it into the directory (default `../build/speech-libs`, next to the source folder). It does nothing if that directory already holds the bundle. The unpacked directory is the speech root: `RT_SPEECH_ROOT` names it (an absolute path); if the variable is not set, the project file looks in `../../build/speech-libs` relative to the `app` folder. The qmake output states whether the engine is on and which root was used.
-
-A build without the bundle, and every build for i486, has no speech engine: it builds and runs normally, and the spoken announcements are hidden. The release notes of the release that carries the bundle list its contents, versions, licences, size and checksum.
+A build without the bundle, and every build for i486, has no speech engine: it builds and runs normally, and the spoken announcements are hidden.
 
 ## Documentation
 
