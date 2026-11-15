@@ -2,7 +2,7 @@
 
 A workout timer for Sailfish OS for repetition-based exercises, interval (HIIT) training and circuits. It has a large countdown, sound cues and your own exercise library. It works fully offline and collects nothing.
 
-Status: in development, not released yet.
+Status: released.
 
 ## Important notice
 
