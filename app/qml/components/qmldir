@@ -1,0 +1,35 @@
+singleton Settings 1.0 Settings.qml
+singleton StepStyle 1.0 StepStyle.qml
+singleton LanguageNames 1.0 LanguageNames.qml
+singleton DigitFont 1.0 DigitFont.qml
+KeepAwake 1.0 KeepAwake.qml
+TimeDigits 1.0 TimeDigits.qml
+ProgressStrip 1.0 ProgressStrip.qml
+LedText 1.0 LedText.qml
+Glyph 1.0 Glyph.qml
+HoldButton 1.0 HoldButton.qml
+BigButton 1.0 BigButton.qml
+NumberStepper 1.0 NumberStepper.qml
+singleton Metrics 1.0 Metrics.qml
+singleton BeatStyle 1.0 BeatStyle.qml
+BeatPulse 1.0 BeatPulse.qml
+RepetitionBar 1.0 RepetitionBar.qml
+singleton Swatches 1.0 Swatches.qml
+IconBadge 1.0 IconBadge.qml
+singleton MetronomeText 1.0 MetronomeText.qml
+PaceStrip 1.0 PaceStrip.qml
+MarqueeLabel 1.0 MarqueeLabel.qml
+PuppetFigure 1.0 PuppetFigure.qml
+singleton MuscleText 1.0 MuscleText.qml
+singleton WorkoutText 1.0 WorkoutText.qml
+IconColourPicker 1.0 IconColourPicker.qml
+TempoDisplay 1.0 TempoDisplay.qml
+CaptionedControl 1.0 CaptionedControl.qml
+singleton Sounds 1.0 Sounds.qml
+singleton ExchangeText 1.0 ExchangeText.qml
+CountLine 1.0 CountLine.qml
+ModeGrid 1.0 ModeGrid.qml
+ExerciseFile 1.0 ExerciseFile.qml
+RunScheme 1.0 RunScheme.qml
+RunButton 1.0 RunButton.qml
+SafetyNotice 1.0 SafetyNotice.qml

@@ -1,0 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 Michele Brami
+
+TEMPLATE = subdirs
+SUBDIRS = tst_timeformat tst_model tst_plan tst_engine tst_database tst_exercisestore tst_workoutstore tst_sessionlog tst_statistics tst_exchange tst_starterloader tst_timeattackstore tst_timers tst_intervaltimer tst_tempo tst_metronome tst_metronomestore tst_metronomeform tst_exerciseform tst_exerciseexchange tst_metronomelive tst_enginestart tst_enginetempo tst_workoutdraft tst_workoutform tst_identity tst_sounds tst_language tst_speech tst_speechprep tst_speechtext tst_spokencues tst_sessionexercise tst_sessioncontrols tst_waitcue tst_statusline tst_workouticons tst_licences tst_startflow

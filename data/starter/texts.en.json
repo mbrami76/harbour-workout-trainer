@@ -1,0 +1,754 @@
+{
+    "format": "workout-trainer-starter-texts",
+    "version": 1,
+    "language": "en",
+    "exercises": {
+        "00000001": {
+            "name": "Wall push-up",
+            "instructions": "Stand an arm's length from a wall, hands at chest height, a little wider than your shoulders. Keep your body straight, bend your elbows to bring your chest to the wall, then push back.",
+            "tips": "Easier: stand closer to the wall and make the movement smaller. Harder: step your feet further back, or place your hands on a lower support such as a sturdy table edge. Keep your hips from sagging and your elbows at about 45 degrees to your body."
+        },
+        "00000002": {
+            "name": "Knee push-up",
+            "instructions": "Kneel with your hands under your shoulders and walk your knees back until your body is straight from knees to head. Lower your chest by bending your elbows, then push up.",
+            "tips": "Easier: do the wall push-up instead, or lower only halfway. Harder: move your knees further back, or do the full push-up. Keep your abdomen tight so that the hips do not sag or rise, and look at a spot on the floor just ahead of your hands."
+        },
+        "00000003": {
+            "name": "Arm circles",
+            "instructions": "Stand tall, arms out to the sides at shoulder height, palms down. Make small circles, forward for half the time and backward for the other half. Keep your shoulders down.",
+            "tips": "Easier: make the circles smaller, or lower your arms a little. Harder: make the circles bigger and faster, or hold your palms facing up. Breathe normally and keep your neck relaxed; stop if a shoulder pinches."
+        },
+        "00000004": {
+            "name": "Superman",
+            "instructions": "Lie face down, arms stretched forward. Lift your arms, chest and legs a few centimetres off the floor, hold briefly, then lower with control. Keep your neck long.",
+            "tips": "Easier: lift only your arms or only your legs, one side at a time. Harder: hold the top position longer, or move your arms in a slow swimming motion. Lift from the muscles of the back and buttocks, not by throwing the head back."
+        },
+        "00000005": {
+            "name": "Prone Y raise",
+            "instructions": "Lie face down, arms stretched forward in a wide V, thumbs up. Lift your arms a few centimetres, squeeze your shoulder blades together, hold, then lower slowly. Legs stay on the floor.",
+            "tips": "Easier: bend your elbows, or lift the arms only a little. Harder: hold at the top for longer, or add small pulses at the top. Do not shrug your shoulders toward your ears, and keep the movement slow."
+        },
+        "00000006": {
+            "name": "Crunch",
+            "instructions": "Lie on your back, knees bent, feet flat, hands crossed on your chest. Curl your head and shoulder blades off the floor, hold a moment, then lower. Keep your lower back on the floor.",
+            "tips": "Easier: reach your arms along your thighs and lift only slightly. Harder: hold at the top, or extend your arms behind your head. Do not pull on your neck; look at the ceiling and keep a fist of space between chin and chest."
+        },
+        "00000007": {
+            "name": "Dead bug",
+            "instructions": "Lie on your back, arms up, hips and knees bent at 90 degrees. Press your lower back into the floor, lower one arm and the opposite leg toward the floor, return, then switch sides.",
+            "tips": "Easier: move only the legs, or only the arms, and keep the range small. Harder: straighten the lowering leg and move more slowly, or hold a rolled-up towel between your hands. If your lower back lifts off the floor, shorten the movement."
+        },
+        "00000008": {
+            "name": "Bird dog",
+            "instructions": "Start on hands and knees, back flat. Reach one arm forward and the opposite leg backward until both are level with your body. Hold briefly, return, and switch sides.",
+            "tips": "Easier: lift only a leg, or only an arm, keeping the other three supports on the floor. Harder: draw the elbow and knee together under your body before reaching out again. Keep your hips level, as if a glass of water rested on your lower back."
+        },
+        "00000009": {
+            "name": "Glute bridge",
+            "instructions": "Lie on your back, knees bent, feet flat near your hips. Press through your heels and lift your hips until your body is straight from knees to shoulders. Squeeze your buttocks, then lower slowly.",
+            "tips": "Easier: lift only partway and skip the hold. Harder: hold the top for several seconds, or lift one foot off the floor (see single-leg glute bridge). Do not push your belly up so that your lower back arches; the work should be in the buttocks."
+        },
+        "0000000a": {
+            "name": "Donkey kick",
+            "instructions": "Start on hands and knees, back flat. Keep one knee bent at 90 degrees and lift that foot toward the ceiling. Squeeze your buttock, lower the knee almost to the floor, repeat, then switch legs.",
+            "tips": "Easier: make the kick smaller and lift only to half height. Harder: hold at the top, add small pulses, or straighten the leg backward. Keep your hips square to the floor and do not arch your lower back."
+        },
+        "0000000b": {
+            "name": "Side-lying leg raise",
+            "instructions": "Lie on your side, legs stacked, head on your lower arm. Lift your top leg, kept straight, about 40 degrees, hold briefly, and lower slowly. Complete all repetitions, then change sides.",
+            "tips": "Easier: bend the lower knee for stability and lift the leg only a little. Harder: hold the top position, add small pulses, or point the toes down slightly. Keep your hips stacked and do not roll backward."
+        },
+        "0000000c": {
+            "name": "Bodyweight squat",
+            "instructions": "Stand with your feet slightly wider than your hips. Push your hips back and bend your knees as if sitting on a chair, until your thighs are almost parallel to the floor, then stand up.",
+            "tips": "Easier: squat to a chair or only halfway down. Harder: pause at the bottom, slow the descent, or jump out of the bottom (see jump squat). Keep your knees in line with your toes and your heels on the floor."
+        },
+        "0000000d": {
+            "name": "Wall sit",
+            "instructions": "Stand with your back against a wall, then slide down until your knees are bent at 90 degrees and your thighs are parallel to the floor. Keep your back flat and hold the position.",
+            "tips": "Easier: do not slide as low, or take short breaks. Harder: sit lower, hold longer, or lift one foot a few centimetres for a few seconds. Your knees should stay above your ankles, not in front of your toes."
+        },
+        "0000000e": {
+            "name": "Calf raise",
+            "instructions": "Stand tall, feet hip-width apart, a hand on a wall for balance if needed. Rise as high as you can on the balls of your feet, pause, then lower your heels slowly.",
+            "tips": "Easier: hold on to a wall and do a smaller movement. Harder: pause longer at the top, slow the lowering to three seconds, or move to one leg (see single-leg calf raise). Keep your ankles straight and do not roll outward."
+        },
+        "0000000f": {
+            "name": "Good morning",
+            "instructions": "Stand with your feet hip-width apart, knees slightly bent, hands behind your head. Keep your back straight, push your hips back and lean forward, then squeeze your buttocks to come up.",
+            "tips": "Easier: hold your arms forward or crossed on your chest and go only halfway. Harder: slow the lowering, pause at the bottom, or move to one leg (see single-leg hinge). Your back stays flat the whole time; the movement comes from the hips, not from rounding the spine."
+        },
+        "00000010": {
+            "name": "Jumping jack",
+            "instructions": "Stand with your feet together and your arms by your sides. Jump your feet apart while swinging your arms overhead, then jump back. Land softly on the balls of your feet.",
+            "tips": "Easier: step one foot out at a time and lift your arms to shoulder height. Harder: go faster, or add a squat each time you land with your feet apart. Keep your knees soft and your landing quiet."
+        },
+        "00000011": {
+            "name": "High knees",
+            "instructions": "Stand tall and run on the spot, driving each knee up toward hip height and swinging the opposite arm. Stay on the balls of your feet and keep your chest upright.",
+            "tips": "Easier: march on the spot, lifting the knees only to a comfortable height. Harder: run faster and lift the knees higher. Keep your core firm and your landing light, and slow down if your breathing becomes ragged."
+        },
+        "00000012": {
+            "name": "Forearm plank",
+            "instructions": "Rest on your forearms, elbows under your shoulders, toes on the floor. Lift your hips so your body is a straight line from head to heels. Tighten your abdomen and breathe steadily.",
+            "tips": "Easier: rest on your knees, or shorten the hold. Harder: lift one foot a few centimetres, or reach one arm forward. If your lower back sags or your hips rise, end the set."
+        },
+        "00000013": {
+            "name": "Child's pose",
+            "instructions": "Kneel with your knees apart, sit your hips back toward your heels and stretch your arms forward on the floor, forehead down. Breathe slowly and hold for the set time.",
+            "tips": "Easier: place a pillow between your calves and thighs, or rest your forehead on your hands. Harder: walk your hands further forward, or to one side to stretch the opposite side of your back. Do not force your hips down if your knees complain."
+        },
+        "00000014": {
+            "name": "Standing hamstring stretch",
+            "instructions": "Stand with one heel forward, toes up, the other knee slightly bent. Keep your back flat and hinge forward from the hips until you feel a stretch behind the front thigh. Hold, then change legs.",
+            "tips": "Easier: bend the back knee more and place your hands on your thigh. Harder: lean further forward, or pull your toes toward you to include the calf. Stay at a firm stretch that never turns into pain, and do not bounce."
+        },
+        "00000015": {
+            "name": "Standing quad stretch",
+            "instructions": "Stand on one leg, holding a wall if needed. Bend the other knee and bring your heel toward your buttock, knees close together, torso upright. Hold, then change legs.",
+            "tips": "Easier: keep holding the wall, or hold your trouser leg instead of the foot. Harder: tilt your pelvis forward and push the hip forward, or let go of the wall. Do not arch your lower back, and keep the knee pointing down."
+        },
+        "00000016": {
+            "name": "Heel walk",
+            "instructions": "Stand tall and lift the front of both feet so you stand on your heels. Walk forward slowly in small steps, toes pulled up toward your shins.",
+            "tips": "Easier: take only a few steps with a hand near a wall. Harder: walk longer, or slower with larger steps. Keep your toes up the whole time and stop if you feel a sharp pain along the front of your lower leg."
+        },
+        "00000017": {
+            "name": "Wall angel",
+            "instructions": "Stand with your back, head and buttocks against a wall. Raise your arms to shoulder height, elbows bent at 90 degrees, then slide them up the wall as far as you can and back down.",
+            "tips": "Easier: keep a bigger bend in your elbows and move through a smaller range. Harder: move more slowly, straighten your arms at the top, or take your feet closer to the wall. Keep your lower back close to the wall and do not shrug."
+        },
+        "00000018": {
+            "name": "Self-resisted curl",
+            "instructions": "Stand with one elbow bent at 90 degrees, palm up. Press the other hand down on your fist while you try to curl it up, so the two arms push against each other. Hold, relax, switch arms.",
+            "tips": "Easier: use less pressure and a shorter hold. Harder: change the angle of the elbow, or move slowly through the full curl while the other hand resists. Breathe steadily; do not hold your breath and keep your shoulders relaxed."
+        },
+        "00000019": {
+            "name": "Wrist rock",
+            "instructions": "Kneel on hands and knees, palms flat, fingers forward. Slowly rock your body forward and back, letting your wrists bend. Repeat with the fingers to the side.",
+            "tips": "Easier: place your hands on a soft mat and rock only a little. Harder: lean further, or do the movement on the backs of your hands very gently. Never push into pain in the wrist; stop if a joint feels pinched."
+        },
+        "0000001a": {
+            "name": "Push-up",
+            "instructions": "Start in a high plank, hands under your shoulders, body in a straight line. Bend your elbows to lower your chest close to the floor, then push up until your arms are straight.",
+            "tips": "Easier: do it on your knees (knee push-up) or against a wall. Harder: slow the lowering to three seconds, pause at the bottom, or raise your feet on a low step. Keep your elbows at about 45 degrees and your hips in line."
+        },
+        "0000001b": {
+            "name": "Diamond push-up",
+            "instructions": "Start in a high plank with your hands close together under your chest, thumbs and index fingers forming a diamond. Lower your chest to your hands, elbows close to your body, then push up.",
+            "tips": "Easier: do it on your knees, or place your hands a little further apart. Harder: slow the lowering, or raise your feet on a low step. If your wrists complain, turn your hands slightly outward."
+        },
+        "0000001c": {
+            "name": "Shoulder tap",
+            "instructions": "Start in a high plank, feet a little wider than hip-width. Without rocking your hips, lift one hand and tap the opposite shoulder, put it back, and tap with the other hand.",
+            "tips": "Easier: put your knees on the floor, or place your feet wider apart. Harder: bring your feet together, or pause for a second with each tap. Brace your abdomen so that your hips stay level."
+        },
+        "0000001d": {
+            "name": "Prone arm sweep",
+            "instructions": "Lie face down, arms stretched forward. Lift your chest slightly and sweep your straight arms in a wide arc down to your sides, palms down. Hold, then sweep forward again with control.",
+            "tips": "Easier: keep your chest on the floor and make the arc smaller. Harder: hold your arms at your hips for several seconds, or lift your legs at the same time. Keep your neck long and do not shrug your shoulders."
+        },
+        "0000001e": {
+            "name": "Lunge",
+            "instructions": "Stand tall and step one foot forward a long stride. Lower your hips straight down until both knees are bent at 90 degrees, then push through the front foot to return. Repeat on the other side.",
+            "tips": "Easier: hold a wall for balance, or do a shorter step and shallower depth. Harder: pause at the bottom, step backward into a reverse lunge, or add a jump (see jump lunge). Keep your front knee above your ankle and your torso upright."
+        },
+        "0000001f": {
+            "name": "Side lunge",
+            "instructions": "Stand with your feet together. Take a wide step to one side, push your hips back and bend that knee, the other leg straight. Push off to return, then repeat on the other side.",
+            "tips": "Easier: take a smaller step and bend less. Harder: pause at the bottom, or move quickly into the next side. Keep both feet pointing forward and your chest lifted."
+        },
+        "00000020": {
+            "name": "Bicycle crunch",
+            "instructions": "Lie on your back, hands behind your head, legs lifted. Bring one knee toward your chest and turn the opposite elbow toward it, then switch in a pedalling movement. Move slowly.",
+            "tips": "Easier: keep your feet closer to the floor and move through a smaller range, or tap your heels on the floor. Harder: extend the legs lower and slow the pace. Do not pull on your neck."
+        },
+        "00000021": {
+            "name": "Russian twist",
+            "instructions": "Sit with your knees bent and lean back until your abdomen works. Clasp your hands in front of you and turn your torso to one side, then the other. Keep your chest lifted.",
+            "tips": "Easier: keep your heels on the floor. Harder: lift your feet off the floor, and make the turns slower and wider. Turn from the ribs, not just the arms."
+        },
+        "00000022": {
+            "name": "Mountain climber",
+            "instructions": "Start in a high plank. Drive one knee toward your chest, then switch legs quickly in a running movement, keeping your hips low and your hands under your shoulders.",
+            "tips": "Easier: slow down, or place your hands on a higher support such as a table. Harder: speed up, or bring each knee toward the opposite elbow. Do not let your hips rise or sag."
+        },
+        "00000023": {
+            "name": "Sit-up",
+            "instructions": "Lie on your back, knees bent, feet flat, arms crossed on your chest. Curl your whole torso up until you are sitting, then lower slowly to the start.",
+            "tips": "Easier: do a crunch instead, or use the arms to help a little. Harder: keep your arms overhead, or pause at the top. Do not pull on your neck or let your feet lift."
+        },
+        "00000024": {
+            "name": "Side plank",
+            "instructions": "Lie on one side, resting on your forearm with your elbow under your shoulder. Stack your feet and lift your hips so your body is a straight line. Hold, then change sides.",
+            "tips": "Easier: bend your lower knee and rest on it. Harder: raise your top arm, or lift your top leg. Keep your hips from dropping and do not roll forward or back."
+        },
+        "00000025": {
+            "name": "Lying leg raise",
+            "instructions": "Lie on your back, legs straight, hands under your hips. Keep your lower back on the floor and lift your legs until they point to the ceiling, then lower them slowly.",
+            "tips": "Easier: bend your knees. Harder: lower the legs more slowly and stop a few centimetres above the floor. If your lower back arches, shorten the range."
+        },
+        "00000026": {
+            "name": "Single-leg glute bridge",
+            "instructions": "Lie on your back, knees bent, one foot flat and the other leg extended in line with your thigh. Press through the heel and lift your hips, squeeze, and lower slowly. Then change legs.",
+            "tips": "Easier: lift to a smaller height, or tap the extended foot on the floor between repetitions. Harder: hold at the top, or slow the lowering. Keep your hips level and do not twist."
+        },
+        "00000027": {
+            "name": "Single-leg calf raise",
+            "instructions": "Stand on one foot, holding a wall lightly. Rise as high as you can on the ball of the foot, pause, and lower slowly. Change legs after the set.",
+            "tips": "Easier: keep the other toes on the floor for support. Harder: slow the lowering to three seconds, or hold the top position. Keep your ankle straight and avoid rolling outward."
+        },
+        "00000028": {
+            "name": "Jump squat",
+            "instructions": "Stand with your feet shoulder-width apart. Squat down, then jump upward swinging your arms. Land softly on the balls of your feet and go straight into the next squat.",
+            "tips": "Easier: do a bodyweight squat and rise onto your toes at the top. Harder: add a pause at the bottom, or jump higher. Land with soft, bent knees, in line with your toes, and stop if landing becomes heavy."
+        },
+        "00000029": {
+            "name": "Archer push-up",
+            "instructions": "Start in a wide plank, hands well beyond your shoulders. Lower your chest toward one hand while the other arm stays straight, push back to the middle, and repeat on the other side.",
+            "tips": "Easier: make the hands closer, or do the push-up on your knees. Harder: slow the lowering, or let the straight arm turn its palm to the floor with the fingers lifted. Keep your hips low and your body in one line."
+        },
+        "0000002a": {
+            "name": "Pistol squat",
+            "instructions": "Stand on one leg with the other extended in front and your arms forward. Squat down as deep as you can control, then push through the foot to stand. Then change legs.",
+            "tips": "Easier: hold a wall or doorframe, squat to a chair, or hold the free leg bent. Harder: slow the lowering, or pause at the bottom. Keep the heel on the floor and the knee in line with the toes. Warm up well before you try it."
+        },
+        "0000002b": {
+            "name": "Wall handstand hold",
+            "instructions": "Place your hands on the floor a short distance from a wall and walk your feet up the wall until your body is straight and upside down. Push the floor away and hold.",
+            "tips": "Easier: walk your feet up a wall only to hip height, forming a high pike, or hold for a shorter time. Harder: bring your feet off the wall for short moments. Keep your abdomen tight so that your back does not arch, and come down if your arms tire."
+        },
+        "0000002c": {
+            "name": "Hollow hold",
+            "instructions": "Lie on your back, legs straight, arms overhead. Press your lower back into the floor, lift your shoulders and legs a few centimetres, and hold with a long, slightly curved body.",
+            "tips": "Easier: bend your knees and keep your hands by your sides. Harder: extend your arms overhead and lower the legs closer to the floor. If your lower back arches, raise your legs."
+        },
+        "0000002d": {
+            "name": "V-up",
+            "instructions": "Lie on your back, legs straight, arms overhead. Lift your legs and torso at the same time to form a V, reaching your hands toward your feet. Lower with control.",
+            "tips": "Easier: bend your knees, or lift only your legs. Harder: pause at the top, or lower more slowly, stopping short of the floor. Move from the abdomen and avoid swinging."
+        },
+        "0000002e": {
+            "name": "Single-leg hinge",
+            "instructions": "Stand on one foot, knee slightly bent. Hinge forward from the hips while extending the other leg straight behind you, then return by squeezing your buttock. Change legs after the set.",
+            "tips": "Easier: touch the toes of the free leg to the floor, or hold a wall. Harder: slow the movement and hold at the bottom. Keep your hips square and your back flat."
+        },
+        "0000002f": {
+            "name": "Jump lunge",
+            "instructions": "Start in a lunge. Jump and switch your legs in the air, landing in a lunge on the other side. Land softly and keep your torso upright.",
+            "tips": "Easier: do a normal lunge, stepping instead of jumping. Harder: go lower or faster. Keep your front knee above the ankle and stop when your landing becomes heavy."
+        },
+        "00000030": {
+            "name": "Wide push-up",
+            "instructions": "Start in a push-up position with your hands clearly wider than your shoulders. Lower your chest towards the floor with your elbows pointing out, then push back up.",
+            "tips": "Easier: from your knees or with your hands on a wall. Harder: slow the descent or pause near the floor. Keep your body in one straight line and your neck relaxed."
+        },
+        "00000031": {
+            "name": "Reverse lunge",
+            "instructions": "Stand tall, step one foot back and lower until both knees are bent at about 90 degrees, then push through the front foot to stand and change leg on the next repetition.",
+            "tips": "Easier: make the step shorter or hold a wall. Harder: pause at the bottom. Keep your torso upright and your front knee above your ankle."
+        },
+        "00000032": {
+            "name": "Curtsy lunge",
+            "instructions": "Stand tall, step one foot back and across behind the other leg, bend both knees, then return to standing and alternate legs.",
+            "tips": "Easier: make the step smaller or hold a wall. Harder: pause at the bottom. Keep your hips facing forward and your front knee in line with your toes."
+        },
+        "00000033": {
+            "name": "Sumo squat",
+            "instructions": "Stand with your feet much wider than your hips and your toes turned out. Bend your knees over your toes and lower your hips, then stand up.",
+            "tips": "Easier: go down only halfway. Harder: pause at the bottom or slow the descent. Keep your chest up and your knees pointing the same way as your toes."
+        },
+        "00000034": {
+            "name": "Deep squat hold",
+            "instructions": "Stand with your feet a little wider than your shoulders and lower into a deep squat with your heels down. Stay there, pressing your elbows against the inside of your knees.",
+            "tips": "Easier: hold a wall or doorframe, or raise your heels on a folded towel. Harder: hold longer without support. Keep your chest up and breathe slowly."
+        },
+        "00000035": {
+            "name": "Cossack squat",
+            "instructions": "Stand with your feet very wide. Shift your weight to one side, bending that knee deeply while the other leg stays straight with the toes up, then return and change sides.",
+            "tips": "Easier: do a side lunge with a smaller range. Harder: pause at the bottom. Keep the heel of the bent leg on the floor and your chest up."
+        },
+        "00000036": {
+            "name": "Skater jump",
+            "instructions": "Jump sideways from one foot to the other like a speed skater, landing softly on a bent knee and swinging the other leg behind you.",
+            "tips": "Easier: step instead of jumping. Harder: make the jump longer. Land softly and keep your knee in line with your toes."
+        },
+        "00000037": {
+            "name": "Plank up-down",
+            "instructions": "Start in a forearm plank. Push up onto one hand, then the other, to reach a high plank, and lower back to the forearms one arm at a time. Alternate the leading arm.",
+            "tips": "Easier: do it from your knees. Harder: move faster or keep your feet close together. Keep your hips still and your abdomen tight."
+        },
+        "00000038": {
+            "name": "Plank jack",
+            "instructions": "In a high plank, jump your feet apart and back together, like a jumping jack with your hands on the floor.",
+            "tips": "Easier: step one foot out at a time. Harder: move faster. Keep your hips level and your shoulders over your wrists."
+        },
+        "00000039": {
+            "name": "Squat thrust",
+            "instructions": "From standing, squat and put your hands on the floor, jump your feet back to a high plank, jump them back to the hands and stand up.",
+            "tips": "Easier: step the feet back and forth. Harder: add a jump at the top. Keep your back flat in the plank."
+        },
+        "0000003a": {
+            "name": "Prone T raise",
+            "instructions": "Lie face down with your arms out to the sides at shoulder height. Lift your arms and chest slightly, squeezing your shoulder blades together, hold and lower.",
+            "tips": "Easier: lift less. Harder: hold the top position longer. Keep your neck long and look at the floor."
+        },
+        "0000003b": {
+            "name": "Glute bridge march",
+            "instructions": "Lie on your back with your knees bent and lift your hips into a bridge. Keeping the hips level, lift one foot, put it down, then the other.",
+            "tips": "Easier: do the plain glute bridge. Harder: slow the marching. Keep your hips from dropping or rotating."
+        },
+        "0000003c": {
+            "name": "Heel taps",
+            "instructions": "Lie on your back with your knees bent and lift your shoulders slightly. Reach one hand towards the heel on the same side, then the other.",
+            "tips": "Easier: keep the head on the floor. Harder: lift higher. Keep your lower back on the floor and your neck relaxed."
+        },
+        "0000003d": {
+            "name": "Frog pump",
+            "instructions": "Lie on your back with the soles of your feet together and your knees open wide. Lift your hips by squeezing your glutes, hold briefly and lower.",
+            "tips": "Easier: lift less. Harder: pause at the top. Drive through the sides of your feet and avoid arching your lower back."
+        },
+        "0000003e": {
+            "name": "Inchworm",
+            "instructions": "Stand tall, fold forward and put your hands on the floor. Walk your hands forward to a high plank, then walk your feet towards your hands and stand up.",
+            "tips": "Easier: bend your knees as much as you need. Harder: add a push-up in the plank. Keep your abdomen tight as you walk out."
+        },
+        "0000003f": {
+            "name": "Burpee",
+            "instructions": "From standing, crouch and put your hands on the floor, jump your feet back to a plank, lower your chest, push up, jump the feet in and jump up with your arms overhead.",
+            "tips": "Easier: step back and forth without the push-up and the jump. Harder: add a push-up at the bottom. Keep your back flat in the plank and land softly."
+        },
+        "00000040": {
+            "name": "Bear crawl",
+            "instructions": "On hands and feet with your knees just off the floor, crawl forward and back, moving the opposite hand and foot together.",
+            "tips": "Easier: crawl only a few steps each way. Harder: move faster. Keep your back flat and your hips low."
+        },
+        "00000041": {
+            "name": "Pike push-up",
+            "instructions": "From a high plank, walk your feet towards your hands so your hips point to the ceiling. Bend your elbows to bring your head towards the floor, then push back up.",
+            "tips": "Easier: keep your feet further from your hands. Harder: slow the descent. Keep your legs straight and move your head between your hands."
+        },
+        "00000042": {
+            "name": "Standing knee to elbow",
+            "instructions": "Standing, bring one knee up and across while the opposite elbow comes down to meet it, then switch sides at a steady pace.",
+            "tips": "Easier: touch only the hand to the thigh. Harder: move faster. Stand tall and avoid leaning back."
+        },
+        "00000043": {
+            "name": "Standing oblique crunch",
+            "instructions": "Standing, raise one knee out to the side while you bring the same elbow down towards it, bending sideways, then switch sides.",
+            "tips": "Easier: lift the knee lower. Harder: move slowly and squeeze. Keep your standing leg slightly bent and your balance steady."
+        },
+        "00000044": {
+            "name": "Standing torso rotation",
+            "instructions": "Standing with your feet hip-width apart and your arms out to the sides, rotate your torso to one side and then the other, keeping your hips facing forward.",
+            "tips": "Easier: make the movement smaller. Harder: move faster under control. Rotate from the waist and keep your knees soft."
+        },
+        "00000045": {
+            "name": "Triceps stretch",
+            "instructions": "Raise one arm and bend the elbow so your hand drops behind your head. With the other hand, gently press the elbow back. Hold, then change arm.",
+            "tips": "Easier: press less. Harder: hold longer. Keep your ribs down and do not push into pain."
+        },
+        "00000046": {
+            "name": "Cross-body shoulder stretch",
+            "instructions": "Bring one arm straight across your chest and hold it just above the elbow with the other arm. Hold, then change arm.",
+            "tips": "Easier: pull less. Harder: hold longer. Keep your shoulders down and relaxed."
+        },
+        "00000047": {
+            "name": "Fire hydrant",
+            "instructions": "On hands and knees, keeping the knee bent at 90 degrees, lift one knee out to the side, hold briefly and lower. Repeat on the other side.",
+            "tips": "Easier: lift less. Harder: pause at the top. Keep your hips level and your back flat."
+        },
+        "00000048": {
+            "name": "Clamshell",
+            "instructions": "Lie on your side with your knees bent and your feet together. Keeping your feet touching, lift the top knee, hold and lower. Repeat on the other side.",
+            "tips": "Easier: lift less. Harder: pause at the top. Keep your hips stacked and do not roll backwards."
+        },
+        "00000049": {
+            "name": "Cat-cow",
+            "instructions": "On hands and knees, round your back and tuck your chin, then let your belly drop and lift your head. Move slowly between the two positions.",
+            "tips": "Easier: make the movement smaller. Harder: slow it down. Keep your arms straight and breathe with the movement."
+        },
+        "0000004a": {
+            "name": "Hip circles",
+            "instructions": "Standing with your feet shoulder-width apart and your hands on your hips, draw large slow circles with your hips. Change direction halfway.",
+            "tips": "Easier: make smaller circles. Harder: make them bigger. Keep your shoulders still and your knees soft."
+        },
+        "0000004b": {
+            "name": "Thoracic rotation",
+            "instructions": "On hands and knees, put one hand behind your head. Rotate that elbow down towards the opposite arm, then open it up towards the ceiling, following it with your eyes. Repeat, then change side.",
+            "tips": "Easier: make the movement smaller. Harder: pause at the top. Rotate from the upper back, keeping your hips still."
+        },
+        "0000004c": {
+            "name": "World's greatest stretch",
+            "instructions": "Step into a deep lunge and put both hands inside the front foot. Rotate your torso and lift the inner arm towards the ceiling, then lower it and change legs.",
+            "tips": "Easier: keep the back knee on the floor. Harder: hold each position longer. Keep the front knee above your ankle."
+        },
+        "0000004d": {
+            "name": "Leg swings",
+            "instructions": "Standing and holding a wall for balance, swing one leg forward and back in a controlled way. Change leg after the time.",
+            "tips": "Easier: swing lower. Harder: swing higher. Stand tall and keep the standing knee soft."
+        },
+        "0000004e": {
+            "name": "Kneeling hip flexor stretch",
+            "instructions": "Kneel on one knee with the other foot in front. Tuck your pelvis under and gently shift your hips forward until you feel a stretch at the front of the back hip. Hold, then change leg.",
+            "tips": "Easier: pad the knee with a folded towel. Harder: raise the arm on the side of the back leg. Keep your torso upright and do not arch your lower back."
+        },
+        "0000004f": {
+            "name": "Cobra",
+            "instructions": "Lie face down with your hands under your shoulders. Press into your hands to lift your chest, keeping your hips on the floor, and hold.",
+            "tips": "Easier: stay lower on your forearms. Harder: straighten your arms more. Keep your shoulders away from your ears and your neck long."
+        },
+        "00000050": {
+            "name": "Standing figure-four stretch",
+            "instructions": "Standing near a wall for balance, rest one ankle on the opposite knee and sit your hips back as if on a chair. Hold, then change leg.",
+            "tips": "Easier: stand taller. Harder: sit lower. Keep the crossed foot flexed to protect your knee."
+        },
+        "00000051": {
+            "name": "Seated forward fold",
+            "instructions": "Sit on the floor with your legs straight. Hinge forward from your hips and reach towards your feet, keeping your back long. Hold.",
+            "tips": "Easier: bend your knees slightly. Harder: reach further. Never force the stretch and keep breathing."
+        },
+        "00000052": {
+            "name": "Doorway chest stretch",
+            "instructions": "Stand next to a wall or doorframe with your elbow bent at 90 degrees and your forearm on it. Turn your body gently away until you feel a stretch across the chest. Hold, then change arm.",
+            "tips": "Easier: turn less. Harder: raise the arm slightly higher. Keep your shoulder down and relaxed."
+        },
+        "00000053": {
+            "name": "Flutter kick",
+            "instructions": "Lie on your back with your legs straight and a little above the floor. Kick your legs up and down in small alternating movements.",
+            "tips": "Easier: put your hands under your hips. Harder: lift your head and shoulders. Keep your lower back on the floor."
+        },
+        "00000054": {
+            "name": "Reverse crunch",
+            "instructions": "Lie on your back with your knees bent over your hips. Curl your hips off the floor by bringing your knees towards your chest, hold and lower slowly.",
+            "tips": "Easier: lift the hips only a little. Harder: slow the lowering. Do not swing; lift with your abdomen."
+        },
+        "00000055": {
+            "name": "Butt kicks",
+            "instructions": "Jog in place, kicking each heel up towards your buttocks and keeping your knees pointing down.",
+            "tips": "Easier: jog gently. Harder: move faster. Stay on the balls of your feet and keep your torso upright."
+        },
+        "00000056": {
+            "name": "Neck rolls",
+            "instructions": "Standing tall, let your head drop gently to one side and roll it slowly forward and across to the other side. Change direction after half the time.",
+            "tips": "Easier: make the circle smaller. Harder: go slower. Keep your shoulders low and relaxed and never force the movement."
+        },
+        "00000057": {
+            "name": "Ankle circles",
+            "instructions": "Standing on one leg (hold a wall if needed), lift the other foot slightly and draw slow circles with your toes. Change direction halfway, then change foot.",
+            "tips": "Easier: keep the toes on the floor. Harder: make the circles larger. Move from the ankle, not from the leg."
+        },
+        "00000058": {
+            "name": "Frog jump",
+            "instructions": "Squat deeply with your hands between your feet, then jump forward and up, swinging your arms, and land softly back in the deep squat.",
+            "tips": "Easier: jump to a smaller height. Harder: jump further. Land softly with your knees over your toes."
+        }
+    },
+    "metronomes": {
+        "00000001": {
+            "name": "2P-U-4 Down-up",
+            "phaseNames": [
+                "Down",
+                "Up"
+            ]
+        },
+        "00000002": {
+            "name": "2P-U-4 Up-down",
+            "phaseNames": [
+                "Up",
+                "Down"
+            ]
+        },
+        "00000003": {
+            "name": "2P-U-4 Rock",
+            "phaseNames": [
+                "Forward",
+                "Back"
+            ]
+        },
+        "00000004": {
+            "name": "3P-3-1-1 Slow lower",
+            "phaseNames": [
+                "Down",
+                "Hold",
+                "Up"
+            ]
+        },
+        "00000005": {
+            "name": "4P-2-1-2-1 Lift-hold",
+            "phaseNames": [
+                "Lift",
+                "Hold",
+                "Lower",
+                "Rest"
+            ]
+        },
+        "00000006": {
+            "name": "3P-U-6 Lift-hold-lower",
+            "phaseNames": [
+                "Lift",
+                "Hold",
+                "Lower"
+            ]
+        },
+        "00000007": {
+            "name": "3P-U-6 Hinge-hold-up",
+            "phaseNames": [
+                "Hinge",
+                "Hold",
+                "Up"
+            ]
+        },
+        "00000008": {
+            "name": "4P-U-4 Up-hold-down",
+            "phaseNames": [
+                "Up",
+                "Hold",
+                "Down",
+                "Rest"
+            ]
+        },
+        "00000009": {
+            "name": "4P-U-4 Reach-hold",
+            "phaseNames": [
+                "Reach",
+                "Hold",
+                "Return",
+                "Rest"
+            ]
+        },
+        "0000000a": {
+            "name": "4P-U-4 Left-centre-right",
+            "phaseNames": [
+                "Left",
+                "Centre",
+                "Right",
+                "Centre"
+            ]
+        },
+        "0000000b": {
+            "name": "2P-U-1 Quick switch",
+            "phaseNames": [
+                "Left",
+                "Right"
+            ]
+        },
+        "0000000c": {
+            "name": "2P-U-2 Left-right",
+            "phaseNames": [
+                "Left",
+                "Right"
+            ]
+        },
+        "0000000d": {
+            "name": "2P-U-2 Out-in",
+            "phaseNames": [
+                "Out",
+                "In"
+            ]
+        },
+        "0000000e": {
+            "name": "2P-U-2 Down-jump",
+            "phaseNames": [
+                "Down",
+                "Jump"
+            ]
+        },
+        "0000000f": {
+            "name": "2P-U-10 Squeeze-release",
+            "phaseNames": [
+                "Squeeze",
+                "Release"
+            ]
+        },
+        "00000010": {
+            "name": "4P-U-6 Single leg",
+            "phaseNames": [
+                "Down",
+                "Hold",
+                "Up",
+                "Rest"
+            ]
+        }
+    },
+    "workouts": {
+        "00000001": {
+            "name": "All-rounder - Beginner",
+            "blocks": [
+                "Warm-up",
+                "Legs",
+                "Upper body",
+                "Core",
+                "Full body",
+                "Cool-down"
+            ]
+        },
+        "00000002": {
+            "name": "All-rounder - Advanced",
+            "blocks": [
+                "Warm-up",
+                "Legs",
+                "Push",
+                "Core",
+                "Full body",
+                "Cool-down"
+            ]
+        },
+        "00000003": {
+            "name": "All-rounder - Hero",
+            "blocks": [
+                "Warm-up",
+                "Power",
+                "Push",
+                "Core",
+                "Full body",
+                "Finisher",
+                "Cool-down"
+            ]
+        },
+        "00000004": {
+            "name": "Core - Beginner",
+            "blocks": [
+                "Warm-up",
+                "Abs",
+                "Stability",
+                "Obliques",
+                "Lower abs",
+                "Cool-down"
+            ]
+        },
+        "00000005": {
+            "name": "Core - Advanced",
+            "blocks": [
+                "Warm-up",
+                "Abs",
+                "Stability",
+                "Rotation",
+                "Hollow and lift",
+                "Cool-down"
+            ]
+        },
+        "00000006": {
+            "name": "Core - Hero",
+            "blocks": [
+                "Warm-up",
+                "Abs",
+                "Stability",
+                "Hollow and lift",
+                "Finisher",
+                "Cool-down"
+            ]
+        },
+        "00000007": {
+            "name": "Arms and shoulders - Beginner",
+            "blocks": [
+                "Warm-up",
+                "Push",
+                "Shoulders and back",
+                "Arms",
+                "Stability",
+                "Cool-down"
+            ]
+        },
+        "00000008": {
+            "name": "Arms and shoulders - Advanced",
+            "blocks": [
+                "Warm-up",
+                "Push",
+                "Shoulders and back",
+                "Arms",
+                "Holds",
+                "Cool-down"
+            ]
+        },
+        "00000009": {
+            "name": "Arms and shoulders - Hero",
+            "blocks": [
+                "Warm-up",
+                "Push",
+                "Shoulders and back",
+                "Arms",
+                "Back",
+                "Finisher",
+                "Cool-down"
+            ]
+        },
+        "0000000a": {
+            "name": "Legs and glutes - Beginner",
+            "blocks": [
+                "Warm-up",
+                "Squats",
+                "Glutes",
+                "Lunges",
+                "Calves and balance",
+                "Cool-down"
+            ]
+        },
+        "0000000b": {
+            "name": "Legs and glutes - Advanced",
+            "blocks": [
+                "Warm-up",
+                "Squats",
+                "Lunges",
+                "Glutes",
+                "Back of the legs",
+                "Cool-down"
+            ]
+        },
+        "0000000c": {
+            "name": "Legs and glutes - Hero",
+            "blocks": [
+                "Warm-up",
+                "Power",
+                "Strength",
+                "Endurance",
+                "Glutes",
+                "Cool-down"
+            ]
+        },
+        "0000000d": {
+            "name": "Flexibility and mobility - Beginner",
+            "blocks": [
+                "Warm-up",
+                "Spine",
+                "Hips",
+                "Shoulders",
+                "Back of the legs",
+                "Cool-down"
+            ]
+        },
+        "0000000e": {
+            "name": "Flexibility and mobility - Advanced",
+            "blocks": [
+                "Warm-up",
+                "Mobility flow",
+                "Hips",
+                "Agility",
+                "Shoulders",
+                "Cool-down"
+            ]
+        },
+        "0000000f": {
+            "name": "All-rounder standing - Beginner",
+            "blocks": [
+                "Warm-up",
+                "Legs",
+                "Upper body at the wall",
+                "Standing core",
+                "Cardio",
+                "Cool-down"
+            ]
+        },
+        "00000010": {
+            "name": "All-rounder standing - Advanced",
+            "blocks": [
+                "Warm-up",
+                "Legs",
+                "Balance and legs",
+                "Standing core",
+                "Cardio",
+                "Cool-down"
+            ]
+        }
+    }
+}

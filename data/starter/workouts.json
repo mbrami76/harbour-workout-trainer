@@ -1,0 +1,3959 @@
+{
+    "format": "workout-trainer-starter-workouts",
+    "version": 1,
+    "workouts": [
+        {
+            "id": "00000001",
+            "icon": "target",
+            "colour": "green",
+            "restBetweenBlocksSec": 45,
+            "blocks": [
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "warmup",
+                            "exercise": "00000003",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000010",
+                            "reps": 15
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "0000000f",
+                            "reps": 5
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "0000000c",
+                            "reps": 8
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000017",
+                            "reps": 8
+                        }
+                    ]
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "0000000c",
+                            "reps": 9
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000009",
+                            "reps": 6
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000000e",
+                            "reps": 9
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000002",
+                            "reps": 7
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000004",
+                            "reps": 6
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000017",
+                            "reps": 9
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000007",
+                            "reps": 9
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000008",
+                            "reps": 9
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000006",
+                            "reps": 9
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 2,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "0000001e",
+                            "reps": 7
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000011",
+                            "reps": 35
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000012",
+                            "durationSec": 35
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000013",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000014",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000014",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000015",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000015",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000052",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000052",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000045",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000045",
+                            "durationSec": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "00000002",
+            "icon": "target",
+            "colour": "yellow",
+            "restBetweenBlocksSec": 40,
+            "blocks": [
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "warmup",
+                            "exercise": "00000003",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000010",
+                            "reps": 15
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000011",
+                            "reps": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "0000000f",
+                            "reps": 5
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "0000001f",
+                            "reps": 6
+                        }
+                    ]
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "0000001e",
+                            "reps": 8
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000001f",
+                            "reps": 8
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000028",
+                            "reps": 20
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000026",
+                            "reps": 3
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000026",
+                            "reps": 3
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "0000001a",
+                            "reps": 8
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000001b",
+                            "reps": 8
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000001c",
+                            "durationSec": 40
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000003a",
+                            "reps": 7
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 2,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000020",
+                            "reps": 10
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000021",
+                            "reps": 10
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000024",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000024",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000022",
+                            "reps": 40
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 2,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "0000000c",
+                            "reps": 10
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000003f",
+                            "reps": 10
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000040",
+                            "durationSec": 40
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000038",
+                            "durationSec": 40
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000013",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000014",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000014",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000015",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000015",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "0000004e",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "0000004e",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000045",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000045",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000046",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000046",
+                            "durationSec": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "00000003",
+            "icon": "target",
+            "colour": "red",
+            "restBetweenBlocksSec": 30,
+            "blocks": [
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "warmup",
+                            "exercise": "00000003",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000010",
+                            "reps": 15
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000011",
+                            "reps": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000028",
+                            "reps": 15
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000022",
+                            "reps": 30
+                        }
+                    ]
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000028",
+                            "reps": 22
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000002f",
+                            "reps": 22
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000036",
+                            "reps": 22
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000058",
+                            "reps": 22
+                        }
+                    ],
+                    "restBetweenRoundsSec": 20
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000029",
+                            "reps": 9
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000001a",
+                            "reps": 9
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000041",
+                            "reps": 9
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000001b",
+                            "reps": 9
+                        }
+                    ],
+                    "restBetweenRoundsSec": 20
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "0000002d",
+                            "reps": 11
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000002c",
+                            "durationSec": 45
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000021",
+                            "reps": 11
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000022",
+                            "reps": 45
+                        }
+                    ],
+                    "restBetweenRoundsSec": 20
+                },
+                {
+                    "rounds": 2,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "0000003f",
+                            "reps": 11
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000039",
+                            "reps": 22
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000040",
+                            "durationSec": 45
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000037",
+                            "durationSec": 45
+                        }
+                    ],
+                    "restBetweenRoundsSec": 20
+                },
+                {
+                    "rounds": 2,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "0000002a",
+                            "reps": 4
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000002a",
+                            "reps": 4
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000002f",
+                            "reps": 22
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000001a",
+                            "reps": 9
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000020",
+                            "reps": 11
+                        }
+                    ],
+                    "restBetweenRoundsSec": 20
+                },
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000013",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000014",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000014",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000015",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000015",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "0000004e",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "0000004e",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000050",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000050",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000052",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000052",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000045",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000045",
+                            "durationSec": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "00000004",
+            "icon": "abs",
+            "colour": "green",
+            "restBetweenBlocksSec": 40,
+            "blocks": [
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "warmup",
+                            "exercise": "00000003",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000049",
+                            "reps": 8
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "0000004a",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "0000000f",
+                            "reps": 5
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000008",
+                            "reps": 8
+                        }
+                    ]
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000006",
+                            "reps": 9
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000003c",
+                            "reps": 9
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000025",
+                            "reps": 9
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000007",
+                            "reps": 9
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000008",
+                            "reps": 9
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000012",
+                            "durationSec": 35
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000024",
+                            "durationSec": 17
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000024",
+                            "durationSec": 17
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000043",
+                            "durationSec": 35
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000044",
+                            "durationSec": 35
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000054",
+                            "reps": 9
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000023",
+                            "reps": 9
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000053",
+                            "durationSec": 35
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000013",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "0000004f",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "0000004b",
+                            "reps": 8
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "0000004b",
+                            "reps": 8
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000049",
+                            "reps": 8
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "00000005",
+            "icon": "abs",
+            "colour": "yellow",
+            "restBetweenBlocksSec": 35,
+            "blocks": [
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "warmup",
+                            "exercise": "00000003",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000049",
+                            "reps": 8
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "0000004a",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000011",
+                            "reps": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000008",
+                            "reps": 8
+                        }
+                    ]
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000020",
+                            "reps": 11
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000023",
+                            "reps": 11
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000054",
+                            "reps": 11
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000053",
+                            "durationSec": 45
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000022",
+                            "reps": 45
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000001c",
+                            "durationSec": 45
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000012",
+                            "durationSec": 45
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000024",
+                            "durationSec": 22
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000024",
+                            "durationSec": 22
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 2,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000021",
+                            "reps": 11
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000043",
+                            "durationSec": 45
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000003c",
+                            "reps": 11
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000020",
+                            "reps": 11
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 2,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "0000002c",
+                            "durationSec": 45
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000002d",
+                            "reps": 11
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000025",
+                            "reps": 11
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000007",
+                            "reps": 11
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000013",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "0000004f",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "0000004b",
+                            "reps": 8
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "0000004b",
+                            "reps": 8
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "0000004e",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "0000004e",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000051",
+                            "durationSec": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "00000006",
+            "icon": "abs",
+            "colour": "red",
+            "restBetweenBlocksSec": 25,
+            "blocks": [
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "warmup",
+                            "exercise": "00000003",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000049",
+                            "reps": 8
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000011",
+                            "reps": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000022",
+                            "reps": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000038",
+                            "durationSec": 30
+                        }
+                    ]
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "0000002d",
+                            "reps": 12
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000020",
+                            "reps": 12
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000023",
+                            "reps": 12
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000053",
+                            "durationSec": 50
+                        }
+                    ],
+                    "restBetweenRoundsSec": 20
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000037",
+                            "durationSec": 50
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000038",
+                            "durationSec": 50
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000001c",
+                            "durationSec": 50
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000024",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000024",
+                            "durationSec": 25
+                        }
+                    ],
+                    "restBetweenRoundsSec": 20
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "0000002c",
+                            "durationSec": 50
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000002d",
+                            "reps": 12
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000054",
+                            "reps": 12
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000021",
+                            "reps": 12
+                        }
+                    ],
+                    "restBetweenRoundsSec": 20
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000022",
+                            "reps": 50
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000003f",
+                            "reps": 12
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000020",
+                            "reps": 12
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000002c",
+                            "durationSec": 50
+                        }
+                    ],
+                    "restBetweenRoundsSec": 20
+                },
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000013",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "0000004f",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "0000004b",
+                            "reps": 8
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "0000004b",
+                            "reps": 8
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "0000004e",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "0000004e",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000051",
+                            "durationSec": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "00000007",
+            "icon": "dumbbells",
+            "colour": "green",
+            "restBetweenBlocksSec": 40,
+            "blocks": [
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "warmup",
+                            "exercise": "00000003",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000017",
+                            "reps": 8
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000019",
+                            "reps": 8
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000056",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000056",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000010",
+                            "reps": 15
+                        }
+                    ]
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000001",
+                            "reps": 9
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000002",
+                            "reps": 7
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000001c",
+                            "durationSec": 35
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000004",
+                            "reps": 6
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000005",
+                            "reps": 6
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000003a",
+                            "reps": 6
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000001d",
+                            "reps": 6
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 2,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000018",
+                            "reps": 4
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000001",
+                            "reps": 9
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000017",
+                            "reps": 9
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 2,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000012",
+                            "durationSec": 35
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000008",
+                            "reps": 9
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000007",
+                            "reps": 9
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000045",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000045",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000046",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000046",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000052",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000052",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000013",
+                            "durationSec": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "00000008",
+            "icon": "dumbbells",
+            "colour": "yellow",
+            "restBetweenBlocksSec": 35,
+            "blocks": [
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "warmup",
+                            "exercise": "00000003",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000017",
+                            "reps": 8
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000019",
+                            "reps": 8
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000010",
+                            "reps": 15
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "0000003e",
+                            "durationSec": 30
+                        }
+                    ]
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "0000001a",
+                            "reps": 8
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000001b",
+                            "reps": 8
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000030",
+                            "reps": 8
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "0000001c",
+                            "durationSec": 40
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000041",
+                            "reps": 8
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000005",
+                            "reps": 7
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000003a",
+                            "reps": 7
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000018",
+                            "reps": 4
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000001b",
+                            "reps": 8
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000037",
+                            "durationSec": 40
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000017",
+                            "reps": 10
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000012",
+                            "durationSec": 40
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000024",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000024",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000002b",
+                            "durationSec": 40
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000045",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000045",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000046",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000046",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000052",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000052",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000013",
+                            "durationSec": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "00000009",
+            "icon": "dumbbells",
+            "colour": "red",
+            "restBetweenBlocksSec": 25,
+            "blocks": [
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "warmup",
+                            "exercise": "00000003",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000017",
+                            "reps": 8
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000019",
+                            "reps": 8
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000010",
+                            "reps": 15
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "0000003e",
+                            "durationSec": 30
+                        }
+                    ]
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000029",
+                            "reps": 9
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000001a",
+                            "reps": 9
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000041",
+                            "reps": 9
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000001b",
+                            "reps": 9
+                        }
+                    ],
+                    "restBetweenRoundsSec": 20
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "0000002b",
+                            "durationSec": 45
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000041",
+                            "reps": 9
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000001c",
+                            "durationSec": 45
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000037",
+                            "durationSec": 45
+                        }
+                    ],
+                    "restBetweenRoundsSec": 20
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "0000001b",
+                            "reps": 9
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000030",
+                            "reps": 9
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000018",
+                            "reps": 4
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000003e",
+                            "durationSec": 45
+                        }
+                    ],
+                    "restBetweenRoundsSec": 20
+                },
+                {
+                    "rounds": 2,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000005",
+                            "reps": 8
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000003a",
+                            "reps": 8
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000001d",
+                            "reps": 8
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000004",
+                            "reps": 8
+                        }
+                    ],
+                    "restBetweenRoundsSec": 20
+                },
+                {
+                    "rounds": 2,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "0000001a",
+                            "reps": 9
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000038",
+                            "durationSec": 45
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000040",
+                            "durationSec": 45
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000029",
+                            "reps": 9
+                        }
+                    ],
+                    "restBetweenRoundsSec": 20
+                },
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000045",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000045",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000046",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000046",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000052",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000052",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000013",
+                            "durationSec": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "0000000a",
+            "icon": "spring",
+            "colour": "green",
+            "restBetweenBlocksSec": 40,
+            "blocks": [
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "warmup",
+                            "exercise": "0000000f",
+                            "reps": 5
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "0000000c",
+                            "reps": 8
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "0000000e",
+                            "reps": 8
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000055",
+                            "reps": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "0000004a",
+                            "durationSec": 30
+                        }
+                    ]
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "0000000c",
+                            "reps": 9
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000033",
+                            "reps": 9
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000000d",
+                            "durationSec": 35
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000009",
+                            "reps": 6
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000003d",
+                            "reps": 6
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000000a",
+                            "reps": 3
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000000a",
+                            "reps": 3
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000047",
+                            "reps": 3
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000047",
+                            "reps": 3
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 2,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "0000001e",
+                            "reps": 7
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000031",
+                            "reps": 7
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000000b",
+                            "reps": 3
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000000b",
+                            "reps": 3
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 2,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "0000000e",
+                            "reps": 9
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000016",
+                            "reps": 18
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000048",
+                            "reps": 3
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000048",
+                            "reps": 3
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000014",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000014",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000015",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000015",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "0000004e",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "0000004e",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000050",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000050",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000013",
+                            "durationSec": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "0000000b",
+            "icon": "spring",
+            "colour": "yellow",
+            "restBetweenBlocksSec": 35,
+            "blocks": [
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "warmup",
+                            "exercise": "0000000f",
+                            "reps": 5
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "0000000c",
+                            "reps": 8
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000011",
+                            "reps": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000055",
+                            "reps": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "0000001f",
+                            "reps": 6
+                        }
+                    ]
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "0000000c",
+                            "reps": 10
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000033",
+                            "reps": 10
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000028",
+                            "reps": 20
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000000d",
+                            "durationSec": 40
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "0000001e",
+                            "reps": 8
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000031",
+                            "reps": 8
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000032",
+                            "reps": 8
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000001f",
+                            "reps": 8
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 2,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000026",
+                            "reps": 3
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000026",
+                            "reps": 3
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000003b",
+                            "reps": 10
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000000a",
+                            "reps": 3
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000000a",
+                            "reps": 3
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000047",
+                            "reps": 3
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000047",
+                            "reps": 3
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 2,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "0000002e",
+                            "reps": 3
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000002e",
+                            "reps": 3
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000000f",
+                            "reps": 7
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000027",
+                            "reps": 5
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000027",
+                            "reps": 5
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000035",
+                            "reps": 8
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000014",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000014",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000015",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000015",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "0000004e",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "0000004e",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000050",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000050",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000013",
+                            "durationSec": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "0000000c",
+            "icon": "spring",
+            "colour": "red",
+            "restBetweenBlocksSec": 25,
+            "blocks": [
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "warmup",
+                            "exercise": "0000000f",
+                            "reps": 5
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "0000000c",
+                            "reps": 8
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000011",
+                            "reps": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000055",
+                            "reps": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000036",
+                            "reps": 15
+                        }
+                    ]
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000028",
+                            "reps": 25
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000002f",
+                            "reps": 25
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000036",
+                            "reps": 25
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000058",
+                            "reps": 25
+                        }
+                    ],
+                    "restBetweenRoundsSec": 20
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "0000002a",
+                            "reps": 4
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000002a",
+                            "reps": 4
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000035",
+                            "reps": 10
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000002e",
+                            "reps": 4
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000002e",
+                            "reps": 4
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000026",
+                            "reps": 4
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000026",
+                            "reps": 4
+                        }
+                    ],
+                    "restBetweenRoundsSec": 20
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "0000000d",
+                            "durationSec": 50
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000031",
+                            "reps": 10
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000032",
+                            "reps": 10
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000027",
+                            "reps": 6
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000027",
+                            "reps": 6
+                        }
+                    ],
+                    "restBetweenRoundsSec": 20
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "0000003b",
+                            "reps": 12
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000026",
+                            "reps": 4
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000026",
+                            "reps": 4
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000047",
+                            "reps": 4
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000047",
+                            "reps": 4
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000000a",
+                            "reps": 4
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000000a",
+                            "reps": 4
+                        }
+                    ],
+                    "restBetweenRoundsSec": 20
+                },
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000014",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000014",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000015",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000015",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "0000004e",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "0000004e",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000050",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000050",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000013",
+                            "durationSec": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "0000000d",
+            "icon": "yoga",
+            "colour": "green",
+            "restBetweenBlocksSec": 30,
+            "blocks": [
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "warmup",
+                            "exercise": "00000003",
+                            "durationSec": 40
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000056",
+                            "durationSec": 40
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000056",
+                            "durationSec": 40
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "0000004a",
+                            "durationSec": 40
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000057",
+                            "durationSec": 40
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000057",
+                            "durationSec": 40
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000049",
+                            "reps": 10
+                        }
+                    ]
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000049",
+                            "reps": 9
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000004b",
+                            "reps": 4
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000004b",
+                            "reps": 4
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000013",
+                            "durationSec": 35
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000004f",
+                            "durationSec": 35
+                        }
+                    ],
+                    "restBetweenRoundsSec": 20
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "0000004e",
+                            "durationSec": 17
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000004e",
+                            "durationSec": 17
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000050",
+                            "durationSec": 17
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000050",
+                            "durationSec": 17
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000034",
+                            "durationSec": 35
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000004d",
+                            "durationSec": 17
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000004d",
+                            "durationSec": 17
+                        }
+                    ],
+                    "restBetweenRoundsSec": 20
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000017",
+                            "reps": 9
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000046",
+                            "durationSec": 17
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000046",
+                            "durationSec": 17
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000045",
+                            "durationSec": 17
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000045",
+                            "durationSec": 17
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000052",
+                            "durationSec": 17
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000052",
+                            "durationSec": 17
+                        }
+                    ],
+                    "restBetweenRoundsSec": 20
+                },
+                {
+                    "rounds": 2,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000014",
+                            "durationSec": 17
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000014",
+                            "durationSec": 17
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000051",
+                            "durationSec": 35
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000015",
+                            "durationSec": 17
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000015",
+                            "durationSec": 17
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000013",
+                            "durationSec": 35
+                        }
+                    ],
+                    "restBetweenRoundsSec": 20
+                },
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000013",
+                            "durationSec": 45
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000051",
+                            "durationSec": 45
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000049",
+                            "reps": 11
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "0000000e",
+            "icon": "yoga",
+            "colour": "yellow",
+            "restBetweenBlocksSec": 25,
+            "blocks": [
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "warmup",
+                            "exercise": "00000003",
+                            "durationSec": 40
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000056",
+                            "durationSec": 40
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000056",
+                            "durationSec": 40
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "0000004a",
+                            "durationSec": 40
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000057",
+                            "durationSec": 40
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000057",
+                            "durationSec": 40
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000011",
+                            "reps": 40
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000055",
+                            "reps": 40
+                        }
+                    ]
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "0000004c",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000004c",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000049",
+                            "reps": 10
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000004b",
+                            "reps": 5
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000004b",
+                            "reps": 5
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000034",
+                            "durationSec": 40
+                        }
+                    ],
+                    "restBetweenRoundsSec": 20
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "0000004e",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000004e",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000050",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000050",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000035",
+                            "reps": 8
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000004d",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000004d",
+                            "durationSec": 20
+                        }
+                    ],
+                    "restBetweenRoundsSec": 20
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000036",
+                            "reps": 20
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000001f",
+                            "reps": 8
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000016",
+                            "reps": 20
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000055",
+                            "reps": 40
+                        }
+                    ],
+                    "restBetweenRoundsSec": 20
+                },
+                {
+                    "rounds": 2,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000017",
+                            "reps": 10
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000046",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000046",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000045",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000045",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 10
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000052",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000052",
+                            "durationSec": 20
+                        }
+                    ],
+                    "restBetweenRoundsSec": 20
+                },
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000013",
+                            "durationSec": 45
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000051",
+                            "durationSec": 45
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "0000004f",
+                            "durationSec": 45
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000014",
+                            "durationSec": 45
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000014",
+                            "durationSec": 45
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "0000000f",
+            "icon": "balance",
+            "colour": "green",
+            "restBetweenBlocksSec": 40,
+            "blocks": [
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "warmup",
+                            "exercise": "00000003",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000056",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000056",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "0000004a",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "0000000f",
+                            "reps": 5
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000010",
+                            "reps": 15
+                        }
+                    ]
+                },
+                {
+                    "rounds": 2,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "0000000c",
+                            "reps": 10
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000033",
+                            "reps": 10
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000000e",
+                            "reps": 10
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000031",
+                            "reps": 8
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 2,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000001",
+                            "reps": 10
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000017",
+                            "reps": 10
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000018",
+                            "reps": 4
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000003",
+                            "durationSec": 40
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 2,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000042",
+                            "durationSec": 40
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000043",
+                            "durationSec": 40
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000044",
+                            "durationSec": 40
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000011",
+                            "reps": 40
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 2,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000010",
+                            "reps": 20
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000055",
+                            "reps": 40
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 25
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000000d",
+                            "durationSec": 40
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000014",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000014",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000015",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000015",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000045",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000045",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000046",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000046",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000052",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000052",
+                            "durationSec": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "00000010",
+            "icon": "balance",
+            "colour": "yellow",
+            "restBetweenBlocksSec": 35,
+            "blocks": [
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "warmup",
+                            "exercise": "00000003",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000056",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000056",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "0000004a",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "0000000f",
+                            "reps": 5
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "00000011",
+                            "reps": 30
+                        },
+                        {
+                            "type": "warmup",
+                            "exercise": "0000001f",
+                            "reps": 6
+                        }
+                    ]
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "0000001e",
+                            "reps": 8
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000032",
+                            "reps": 8
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000001f",
+                            "reps": 8
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000028",
+                            "reps": 20
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 3,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "0000002e",
+                            "reps": 3
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000002e",
+                            "reps": 3
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000027",
+                            "reps": 5
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000027",
+                            "reps": 5
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000002a",
+                            "reps": 3
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000002a",
+                            "reps": 3
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000035",
+                            "reps": 8
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 2,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000042",
+                            "durationSec": 40
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000043",
+                            "durationSec": 40
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000044",
+                            "durationSec": 40
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000011",
+                            "reps": 40
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 2,
+                    "steps": [
+                        {
+                            "type": "work",
+                            "exercise": "00000036",
+                            "reps": 20
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000010",
+                            "reps": 20
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "00000055",
+                            "reps": 40
+                        },
+                        {
+                            "type": "rest",
+                            "durationSec": 20
+                        },
+                        {
+                            "type": "work",
+                            "exercise": "0000002f",
+                            "reps": 20
+                        }
+                    ],
+                    "restBetweenRoundsSec": 30
+                },
+                {
+                    "rounds": 1,
+                    "steps": [
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000014",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000014",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000015",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000015",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000050",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000050",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000045",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000045",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000046",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000046",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000052",
+                            "durationSec": 30
+                        },
+                        {
+                            "type": "cooldown",
+                            "exercise": "00000052",
+                            "durationSec": 30
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

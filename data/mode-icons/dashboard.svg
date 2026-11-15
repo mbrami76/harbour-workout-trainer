@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Placeholder drawn from vector shapes; the final icon is drawn by the project author. -->
+<svg width="64" height="64" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <rect x="4" y="4" width="56" height="56" rx="9" ry="9" style="fill:#d5f0d3;stroke:#000000;stroke-width:1.9"/>
+  <rect x="13" y="34" width="9" height="16" style="fill:#ffffff;stroke:#000000;stroke-width:1.9;stroke-linejoin:round"/>
+  <rect x="27.5" y="22" width="9" height="28" style="fill:#ffffff;stroke:#000000;stroke-width:1.9;stroke-linejoin:round"/>
+  <rect x="42" y="28" width="9" height="22" style="fill:#ffffff;stroke:#000000;stroke-width:1.9;stroke-linejoin:round"/>
+  <path d="M 11,53 L 53,53" style="fill:none;stroke:#000000;stroke-width:1.9;stroke-linecap:round"/>
+</svg>

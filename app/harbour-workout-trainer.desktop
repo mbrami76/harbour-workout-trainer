@@ -1,0 +1,14 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 Michele Brami
+
+[Desktop Entry]
+Type=Application
+Name=Workout Trainer
+Icon=harbour-workout-trainer
+Exec=harbour-workout-trainer
+X-Nemo-Application-Type=silica-qt5
+
+[X-Sailjail]
+OrganizationName=it.michelebrami
+ApplicationName=workout-trainer
+Permissions=Audio;Documents

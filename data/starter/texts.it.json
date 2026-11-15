@@ -1,0 +1,754 @@
+{
+    "format": "workout-trainer-starter-texts",
+    "version": 1,
+    "language": "it",
+    "exercises": {
+        "00000001": {
+            "name": "Piegamento al muro",
+            "instructions": "Mettiti a un braccio di distanza da un muro, con le mani all'altezza del petto, un po' pi\u00f9 larghe delle spalle. Tieni il corpo in linea, piega i gomiti per avvicinare il petto al muro, poi spingi.",
+            "tips": "Pi\u00f9 facile: avvicinati al muro e riduci il movimento. Pi\u00f9 difficile: porta i piedi pi\u00f9 indietro, oppure appoggia le mani su un sostegno pi\u00f9 basso e stabile, come il bordo di un tavolo. Non lasciare cadere il bacino e tieni i gomiti a circa 45 gradi dal corpo."
+        },
+        "00000002": {
+            "name": "Piegamento sulle ginocchia",
+            "instructions": "Inginocchiati con le mani sotto le spalle e porta le ginocchia indietro finch\u00e9 il corpo \u00e8 in linea dalle ginocchia alla testa. Abbassa il petto piegando i gomiti, poi spingi.",
+            "tips": "Pi\u00f9 facile: fai il piegamento al muro, oppure scendi solo a met\u00e0. Pi\u00f9 difficile: porta le ginocchia pi\u00f9 indietro, oppure fai il piegamento completo. Tieni gli addominali contratti perch\u00e9 il bacino non cada n\u00e9 si alzi, e guarda un punto del pavimento poco avanti alle mani."
+        },
+        "00000003": {
+            "name": "Cerchi con le braccia",
+            "instructions": "In piedi, braccia aperte ai lati all'altezza delle spalle, palmi in basso. Fai piccoli cerchi, in avanti per met\u00e0 del tempo e indietro per l'altra met\u00e0. Tieni le spalle basse.",
+            "tips": "Pi\u00f9 facile: fai cerchi pi\u00f9 piccoli oppure abbassa un po' le braccia. Pi\u00f9 difficile: fai cerchi pi\u00f9 ampi e veloci, oppure tieni i palmi rivolti verso l'alto. Respira normalmente, tieni il collo rilassato e fermati se una spalla si blocca o fa male."
+        },
+        "00000004": {
+            "name": "Superman",
+            "instructions": "Sdraiati a pancia in gi\u00f9 con le braccia tese in avanti. Solleva braccia, petto e gambe di qualche centimetro, mantieni un istante, poi scendi con controllo. Tieni il collo allungato.",
+            "tips": "Pi\u00f9 facile: solleva solo le braccia o solo le gambe, da un lato alla volta. Pi\u00f9 difficile: mantieni pi\u00f9 a lungo la posizione alta, oppure muovi le braccia lentamente come per nuotare. Solleva usando i muscoli della schiena e dei glutei, senza gettare indietro la testa."
+        },
+        "00000005": {
+            "name": "Alzata a Y da proni",
+            "instructions": "Sdraiati a pancia in gi\u00f9 con le braccia tese in avanti a V, pollici verso l'alto. Solleva le braccia di qualche centimetro, avvicina le scapole, mantieni, poi scendi lentamente. Le gambe restano a terra.",
+            "tips": "Pi\u00f9 facile: piega i gomiti oppure solleva poco le braccia. Pi\u00f9 difficile: mantieni pi\u00f9 a lungo in alto, oppure aggiungi piccoli impulsi nella posizione alta. Non alzare le spalle verso le orecchie e tieni il movimento lento."
+        },
+        "00000006": {
+            "name": "Crunch",
+            "instructions": "Sdraiati sulla schiena con le ginocchia piegate, i piedi a terra e le mani incrociate sul petto. Solleva testa e scapole, mantieni un istante, poi scendi. La zona lombare resta a terra.",
+            "tips": "Pi\u00f9 facile: stendi le braccia lungo le cosce e solleva di poco. Pi\u00f9 difficile: mantieni in alto, oppure porta le braccia dietro la testa. Non tirare il collo; guarda il soffitto e lascia uno spazio di un pugno tra mento e petto."
+        },
+        "00000007": {
+            "name": "Insetto morto",
+            "instructions": "Sdraiati sulla schiena con le braccia verso l'alto, anche e ginocchia piegati a 90 gradi. Premi la zona lombare a terra, abbassa un braccio e la gamba opposta verso il pavimento, torna e cambia lato.",
+            "tips": "Pi\u00f9 facile: muovi solo le gambe oppure solo le braccia, con un movimento piccolo. Pi\u00f9 difficile: distendi la gamba che scende e muoviti pi\u00f9 lentamente, oppure tieni tra le mani un asciugamano arrotolato. Se la zona lombare si stacca dal pavimento, riduci il movimento."
+        },
+        "00000008": {
+            "name": "Quadrupedia alternata",
+            "instructions": "Parti a quattro zampe con la schiena piatta. Allunga un braccio in avanti e la gamba opposta all'indietro, in linea con il corpo. Mantieni un istante, torna e cambia lato.",
+            "tips": "Pi\u00f9 facile: solleva solo una gamba oppure solo un braccio, tenendo gli altri tre appoggi a terra. Pi\u00f9 difficile: porta gomito e ginocchio uno verso l'altro sotto il corpo prima di allungarli di nuovo. Tieni il bacino fermo, come se sulla schiena avessi un bicchiere d'acqua."
+        },
+        "00000009": {
+            "name": "Ponte per i glutei",
+            "instructions": "Sdraiati sulla schiena con le ginocchia piegate e i piedi a terra vicini ai glutei. Spingi sui talloni e solleva il bacino fino a una linea retta dalle ginocchia alle spalle. Contrai i glutei, poi scendi lentamente.",
+            "tips": "Pi\u00f9 facile: solleva solo in parte e salta la pausa. Pi\u00f9 difficile: mantieni la posizione alta per diversi secondi, oppure solleva un piede da terra (vedi il ponte a una gamba). Non inarcare la schiena spingendo la pancia in alto: il lavoro \u00e8 dei glutei."
+        },
+        "0000000a": {
+            "name": "Calcio all'indietro a quattro zampe",
+            "instructions": "Parti a quattro zampe con la schiena piatta. Con il ginocchio piegato a 90 gradi, solleva il piede verso il soffitto. Contrai il gluteo, riporta il ginocchio quasi a terra, ripeti e cambia gamba.",
+            "tips": "Pi\u00f9 facile: riduci il movimento e solleva solo a met\u00e0 altezza. Pi\u00f9 difficile: mantieni in alto, aggiungi piccoli impulsi oppure distendi la gamba all'indietro. Tieni il bacino rivolto verso il pavimento e non inarcare la schiena."
+        },
+        "0000000b": {
+            "name": "Sollevamento laterale della gamba",
+            "instructions": "Sdraiati su un fianco con le gambe sovrapposte e la testa sul braccio. Solleva la gamba superiore, tesa, di circa 40 gradi, mantieni un istante e scendi lentamente. Completa le ripetizioni, poi cambia lato.",
+            "tips": "Pi\u00f9 facile: piega la gamba inferiore per stabilit\u00e0 e solleva poco. Pi\u00f9 difficile: mantieni in alto, aggiungi piccoli impulsi oppure abbassa leggermente la punta del piede. Tieni i fianchi sovrapposti e non ruotare all'indietro."
+        },
+        "0000000c": {
+            "name": "Squat a corpo libero",
+            "instructions": "In piedi, con i piedi un po' pi\u00f9 larghi del bacino. Spingi il bacino indietro e piega le ginocchia come per sederti, fino a cosce quasi parallele al pavimento, poi risali.",
+            "tips": "Pi\u00f9 facile: scendi fino a una sedia oppure solo a met\u00e0. Pi\u00f9 difficile: fermati in basso, rallenta la discesa oppure salta uscendo dalla posizione bassa (vedi lo squat con salto). Tieni le ginocchia in linea con le punte e i talloni a terra."
+        },
+        "0000000d": {
+            "name": "Sedia al muro",
+            "instructions": "Appoggia la schiena a un muro e scivola in basso finch\u00e9 le ginocchia sono piegate a 90 gradi e le cosce parallele al pavimento. Tieni la schiena piatta e mantieni la posizione.",
+            "tips": "Pi\u00f9 facile: scendi meno oppure fai brevi pause. Pi\u00f9 difficile: scendi di pi\u00f9, mantieni pi\u00f9 a lungo oppure solleva un piede di qualche centimetro per qualche secondo. Le ginocchia restano sopra le caviglie, non davanti alle punte."
+        },
+        "0000000e": {
+            "name": "Sollevamento sui polpacci",
+            "instructions": "In piedi, piedi alla larghezza del bacino, con una mano al muro per l'equilibrio se serve. Sali sulle punte il pi\u00f9 possibile, fermati un istante, poi scendi lentamente con i talloni.",
+            "tips": "Pi\u00f9 facile: tieniti al muro e fai un movimento pi\u00f9 piccolo. Pi\u00f9 difficile: fermati pi\u00f9 a lungo in alto, rallenta la discesa a tre secondi oppure passa a una gamba sola (vedi il sollevamento a una gamba). Tieni le caviglie dritte e non ruotarle verso l'esterno."
+        },
+        "0000000f": {
+            "name": "Inclinazione del busto",
+            "instructions": "In piedi, piedi alla larghezza del bacino, ginocchia leggermente piegate e mani dietro la testa. Con la schiena dritta spingi il bacino indietro e inclinati in avanti, poi contrai i glutei per risalire.",
+            "tips": "Pi\u00f9 facile: tieni le braccia in avanti o incrociate sul petto e scendi solo a met\u00e0. Pi\u00f9 difficile: rallenta la discesa, fermati in basso oppure passa a una gamba sola (vedi lo stacco a una gamba). La schiena resta piatta: il movimento parte dalle anche, senza curvare la colonna."
+        },
+        "00000010": {
+            "name": "Salti a stella",
+            "instructions": "In piedi, piedi uniti e braccia lungo i fianchi. Salta aprendo le gambe e portando le braccia sopra la testa, poi salta e torna. Atterra morbidamente sulle punte.",
+            "tips": "Pi\u00f9 facile: porta un piede alla volta di lato e solleva le braccia fino all'altezza delle spalle. Pi\u00f9 difficile: vai pi\u00f9 veloce, oppure aggiungi uno squat ogni volta che atterri a piedi aperti. Tieni le ginocchia morbide e l'atterraggio silenzioso."
+        },
+        "00000011": {
+            "name": "Corsa con ginocchia alte",
+            "instructions": "In piedi, corri sul posto portando ogni ginocchio verso l'altezza del bacino e muovendo il braccio opposto. Resta sulle punte e tieni il petto eretto.",
+            "tips": "Pi\u00f9 facile: marcia sul posto, sollevando le ginocchia a un'altezza comoda. Pi\u00f9 difficile: vai pi\u00f9 veloce e solleva di pi\u00f9 le ginocchia. Tieni l'addome attivo e l'atterraggio leggero; rallenta se il respiro diventa affannoso."
+        },
+        "00000012": {
+            "name": "Plank sugli avambracci",
+            "instructions": "Appoggiati sugli avambracci con i gomiti sotto le spalle e le punte dei piedi a terra. Solleva il bacino fino a una linea retta dalla testa ai talloni. Contrai addome e glutei e respira con regolarit\u00e0.",
+            "tips": "Pi\u00f9 facile: appoggiati sulle ginocchia, oppure riduci il tempo. Pi\u00f9 difficile: solleva un piede di qualche centimetro, oppure porta un braccio in avanti. Se la schiena cede o il bacino si alza, termina la serie."
+        },
+        "00000013": {
+            "name": "Posizione del bambino",
+            "instructions": "Inginocchiati con le ginocchia aperte, siediti all'indietro verso i talloni e allunga le braccia in avanti a terra, con la fronte appoggiata. Respira lentamente e mantieni per il tempo stabilito.",
+            "tips": "Pi\u00f9 facile: metti un cuscino tra polpacci e cosce, oppure appoggia la fronte sulle mani. Pi\u00f9 difficile: porta le mani pi\u00f9 avanti, oppure di lato per allungare il lato opposto della schiena. Non forzare il bacino verso il basso se le ginocchia protestano."
+        },
+        "00000014": {
+            "name": "Stretching dei femorali in piedi",
+            "instructions": "In piedi con un tallone in avanti, punta alzata, e l'altro ginocchio leggermente piegato. Con la schiena piatta inclinati in avanti dai fianchi fino a sentire tirare dietro la coscia anteriore. Mantieni, poi cambia gamba.",
+            "tips": "Pi\u00f9 facile: piega di pi\u00f9 il ginocchio dietro e appoggia le mani sulla coscia. Pi\u00f9 difficile: inclinati di pi\u00f9, oppure tira la punta del piede verso di te per includere il polpaccio. Resta a un allungamento deciso che non diventi dolore, senza molleggiare."
+        },
+        "00000015": {
+            "name": "Stretching del quadricipite in piedi",
+            "instructions": "In piedi su una gamba, con una mano al muro se serve. Piega l'altro ginocchio e porta il tallone verso il gluteo, con le ginocchia vicine e il busto eretto. Mantieni, poi cambia gamba.",
+            "tips": "Pi\u00f9 facile: continua a tenerti al muro, oppure afferra il bordo del pantalone invece del piede. Pi\u00f9 difficile: inclina il bacino in avanti e spingi l'anca in avanti, oppure lascia il muro. Non inarcare la schiena e tieni il ginocchio rivolto verso il basso."
+        },
+        "00000016": {
+            "name": "Camminata sui talloni",
+            "instructions": "In piedi, solleva la parte anteriore dei piedi e resta sui talloni. Cammina in avanti lentamente a piccoli passi, con le punte dei piedi tirate verso gli stinchi.",
+            "tips": "Pi\u00f9 facile: fai pochi passi con una mano vicina a un muro. Pi\u00f9 difficile: cammina pi\u00f9 a lungo, oppure pi\u00f9 lentamente con passi pi\u00f9 ampi. Tieni le punte alte per tutto il tempo e fermati se senti un dolore acuto lungo la parte anteriore della gamba."
+        },
+        "00000017": {
+            "name": "Angelo al muro",
+            "instructions": "In piedi con schiena, testa e glutei contro un muro. Porta le braccia all'altezza delle spalle con i gomiti a 90 gradi, poi falle scivolare lungo il muro verso l'alto il pi\u00f9 possibile e di nuovo gi\u00f9.",
+            "tips": "Pi\u00f9 facile: tieni i gomiti pi\u00f9 piegati e muovi le braccia in un tratto pi\u00f9 breve. Pi\u00f9 difficile: muoviti pi\u00f9 lentamente, distendi le braccia in alto, oppure avvicina i piedi al muro. Tieni la zona lombare vicina al muro e non alzare le spalle."
+        },
+        "00000018": {
+            "name": "Curl con auto-resistenza",
+            "instructions": "In piedi con un gomito piegato a 90 gradi e il palmo verso l'alto. Premi l'altra mano sul pugno mentre cerchi di piegare il braccio, cos\u00ec le due braccia si oppongono. Mantieni, rilassa e cambia braccio.",
+            "tips": "Pi\u00f9 facile: usa meno pressione e una tenuta pi\u00f9 breve. Pi\u00f9 difficile: cambia l'angolo del gomito, oppure muoviti lentamente per tutta la flessione mentre l'altra mano fa resistenza. Respira con regolarit\u00e0, non trattenere il fiato e tieni le spalle rilassate."
+        },
+        "00000019": {
+            "name": "Dondolio sui polsi",
+            "instructions": "A quattro zampe con i palmi a terra e le dita in avanti. Dondola lentamente il corpo avanti e indietro lasciando piegare i polsi. Ripeti con le dita rivolte di lato.",
+            "tips": "Pi\u00f9 facile: appoggia le mani su un tappetino morbido e dondola poco. Pi\u00f9 difficile: spostati di pi\u00f9, oppure fai il movimento con molta delicatezza sul dorso delle mani. Non spingere mai nel dolore al polso e fermati se un'articolazione si blocca."
+        },
+        "0000001a": {
+            "name": "Piegamento sulle braccia",
+            "instructions": "Parti in plank alto con le mani sotto le spalle e il corpo in linea retta. Piega i gomiti per portare il petto vicino al pavimento, poi spingi finch\u00e9 le braccia sono tese.",
+            "tips": "Pi\u00f9 facile: falla sulle ginocchia (piegamento sulle ginocchia) oppure contro un muro. Pi\u00f9 difficile: rallenta la discesa a tre secondi, fermati in basso oppure appoggia i piedi su un gradino basso. Tieni i gomiti a circa 45 gradi e il bacino in linea."
+        },
+        "0000001b": {
+            "name": "Piegamento a diamante",
+            "instructions": "Parti in plank alto con le mani vicine sotto il petto, pollici e indici a formare un diamante. Abbassa il petto verso le mani, con i gomiti vicini al corpo, poi spingi.",
+            "tips": "Pi\u00f9 facile: falla sulle ginocchia, oppure tieni le mani un po' pi\u00f9 distanti. Pi\u00f9 difficile: rallenta la discesa, oppure appoggia i piedi su un gradino basso. Se i polsi protestano, ruota leggermente le mani verso l'esterno."
+        },
+        "0000001c": {
+            "name": "Tocco della spalla",
+            "instructions": "Parti in plank alto con i piedi un po' pi\u00f9 larghi del bacino. Senza dondolare il bacino, solleva una mano e tocca la spalla opposta, riappoggiala e tocca con l'altra.",
+            "tips": "Pi\u00f9 facile: appoggia le ginocchia a terra, oppure allarga di pi\u00f9 i piedi. Pi\u00f9 difficile: porta i piedi uniti, oppure fermati un secondo a ogni tocco. Contrai l'addome perch\u00e9 il bacino resti fermo."
+        },
+        "0000001d": {
+            "name": "Apertura delle braccia da proni",
+            "instructions": "Sdraiati a pancia in gi\u00f9 con le braccia tese in avanti. Solleva leggermente il petto e porta le braccia tese in un ampio arco fino ai fianchi, palmi in basso. Mantieni, poi riporta le braccia in avanti con controllo.",
+            "tips": "Pi\u00f9 facile: tieni il petto a terra e fai un arco pi\u00f9 piccolo. Pi\u00f9 difficile: mantieni le braccia ai fianchi per diversi secondi, oppure solleva anche le gambe. Tieni il collo allungato e non alzare le spalle."
+        },
+        "0000001e": {
+            "name": "Affondo",
+            "instructions": "In piedi, fai un lungo passo in avanti. Abbassa il bacino in verticale fino a piegare entrambe le ginocchia a 90 gradi, poi spingi sul piede davanti per tornare. Ripeti dall'altro lato.",
+            "tips": "Pi\u00f9 facile: tieniti a un muro per l'equilibrio, oppure fai un passo pi\u00f9 corto e scendi meno. Pi\u00f9 difficile: fermati in basso, fai l'affondo all'indietro oppure aggiungi un salto (vedi l'affondo con salto). Il ginocchio davanti resta sopra la caviglia e il busto eretto."
+        },
+        "0000001f": {
+            "name": "Affondo laterale",
+            "instructions": "In piedi con i piedi uniti. Fai un ampio passo di lato, spingi il bacino indietro e piega quel ginocchio, con l'altra gamba tesa. Spingi per tornare e ripeti dall'altro lato.",
+            "tips": "Pi\u00f9 facile: fai un passo pi\u00f9 piccolo e piega meno. Pi\u00f9 difficile: fermati in basso, oppure passa velocemente al lato successivo. Tieni entrambi i piedi rivolti in avanti e il petto alto."
+        },
+        "00000020": {
+            "name": "Crunch a bicicletta",
+            "instructions": "Sdraiati sulla schiena con le mani dietro la testa e le gambe sollevate. Porta un ginocchio verso il petto e il gomito opposto verso di esso, poi cambia come se pedalassi. Muoviti lentamente.",
+            "tips": "Pi\u00f9 facile: tieni i piedi pi\u00f9 vicini al pavimento e fai un movimento pi\u00f9 piccolo, oppure tocca il pavimento con i talloni. Pi\u00f9 difficile: distendi di pi\u00f9 le gambe e rallenta il ritmo. Non tirare il collo."
+        },
+        "00000021": {
+            "name": "Torsione russa",
+            "instructions": "Siediti con le ginocchia piegate e inclinati all'indietro fino a sentire gli addominali. Unisci le mani davanti a te e ruota il busto da un lato, poi dall'altro. Tieni il petto sollevato.",
+            "tips": "Pi\u00f9 facile: tieni i talloni a terra. Pi\u00f9 difficile: solleva i piedi dal pavimento e fai le rotazioni pi\u00f9 lente e pi\u00f9 ampie. Ruota dalle costole, non solo con le braccia."
+        },
+        "00000022": {
+            "name": "Scalatore",
+            "instructions": "Parti in plank alto. Porta un ginocchio verso il petto, poi cambia gamba rapidamente come se corressi, tenendo il bacino basso e le mani sotto le spalle.",
+            "tips": "Pi\u00f9 facile: rallenta, oppure appoggia le mani su un sostegno pi\u00f9 alto, come un tavolo. Pi\u00f9 difficile: accelera, oppure porta ogni ginocchio verso il gomito opposto. Non lasciare salire n\u00e9 cedere il bacino."
+        },
+        "00000023": {
+            "name": "Addominale completo",
+            "instructions": "Sdraiati sulla schiena con le ginocchia piegate, i piedi a terra e le braccia incrociate sul petto. Solleva tutto il busto fino a sederti, poi scendi lentamente.",
+            "tips": "Pi\u00f9 facile: fai un crunch, oppure aiutati un po' con le braccia. Pi\u00f9 difficile: tieni le braccia sopra la testa, oppure fermati in alto. Non tirare il collo e non far alzare i piedi."
+        },
+        "00000024": {
+            "name": "Plank laterale",
+            "instructions": "Sdraiati su un fianco, appoggiato sull'avambraccio con il gomito sotto la spalla. Sovrapponi i piedi e solleva il bacino in linea retta. Mantieni, poi cambia lato.",
+            "tips": "Pi\u00f9 facile: piega la gamba inferiore e appoggiati sul ginocchio. Pi\u00f9 difficile: solleva il braccio superiore, oppure la gamba superiore. Non lasciare cadere il bacino e non ruotare in avanti o indietro."
+        },
+        "00000025": {
+            "name": "Sollevamento gambe da sdraiati",
+            "instructions": "Sdraiati sulla schiena con le gambe tese e le mani sotto il bacino. Tieni la zona lombare a terra e solleva le gambe fino al soffitto, poi scendile lentamente.",
+            "tips": "Pi\u00f9 facile: piega le ginocchia. Pi\u00f9 difficile: abbassa le gambe pi\u00f9 lentamente e fermati a qualche centimetro dal pavimento. Se la schiena si inarca, riduci il movimento."
+        },
+        "00000026": {
+            "name": "Ponte per i glutei a una gamba",
+            "instructions": "Sdraiati sulla schiena con le ginocchia piegate, un piede a terra e l'altra gamba tesa in linea con la coscia. Spingi sul tallone e solleva il bacino, contrai e scendi lentamente. Poi cambia gamba.",
+            "tips": "Pi\u00f9 facile: solleva di meno, oppure tocca il pavimento con il piede disteso tra una ripetizione e l'altra. Pi\u00f9 difficile: mantieni in alto, oppure rallenta la discesa. Tieni il bacino in piano e non ruotarlo."
+        },
+        "00000027": {
+            "name": "Sollevamento sui polpacci a una gamba",
+            "instructions": "In piedi su un piede, con una mano appoggiata al muro. Sali sulla punta il pi\u00f9 possibile, fermati un istante e scendi lentamente. Cambia gamba dopo la serie.",
+            "tips": "Pi\u00f9 facile: tieni le dita dell'altro piede a terra per sostegno. Pi\u00f9 difficile: rallenta la discesa a tre secondi, oppure mantieni la posizione alta. Tieni la caviglia dritta ed evita di ruotarla verso l'esterno."
+        },
+        "00000028": {
+            "name": "Squat con salto",
+            "instructions": "In piedi con i piedi alla larghezza delle spalle. Scendi in squat, poi salta verso l'alto muovendo le braccia. Atterra morbidamente sulle punte e riparti subito.",
+            "tips": "Pi\u00f9 facile: fai lo squat a corpo libero e sali sulle punte in alto. Pi\u00f9 difficile: fermati in basso, oppure salta pi\u00f9 in alto. Atterra con le ginocchia morbide e in linea con le punte; fermati se l'atterraggio diventa pesante."
+        },
+        "00000029": {
+            "name": "Piegamento ad arciere",
+            "instructions": "Parti in plank largo con le mani ben oltre le spalle. Abbassa il petto verso una mano mentre l'altro braccio resta teso, spingi fino al centro e ripeti dall'altro lato.",
+            "tips": "Pi\u00f9 facile: avvicina le mani, oppure fai il piegamento sulle ginocchia. Pi\u00f9 difficile: rallenta la discesa, oppure ruota il palmo del braccio disteso verso il pavimento sollevando le dita. Tieni il bacino basso e il corpo in una sola linea."
+        },
+        "0000002a": {
+            "name": "Squat a una gamba",
+            "instructions": "In piedi su una gamba con l'altra tesa davanti e le braccia in avanti. Scendi il pi\u00f9 possibile con controllo, poi spingi sul piede per risalire. Poi cambia gamba.",
+            "tips": "Pi\u00f9 facile: tieniti a un muro o a uno stipite, scendi fino a una sedia, oppure tieni piegata la gamba libera. Pi\u00f9 difficile: rallenta la discesa, oppure fermati in basso. Tieni il tallone a terra e il ginocchio in linea con la punta. Riscaldati bene prima di provarlo."
+        },
+        "0000002b": {
+            "name": "Verticale al muro",
+            "instructions": "Appoggia le mani a terra a poca distanza da un muro e porta i piedi sul muro finch\u00e9 il corpo \u00e8 in linea retta, capovolto. Spingi il pavimento lontano e mantieni.",
+            "tips": "Pi\u00f9 facile: sali con i piedi sul muro solo fino all'altezza del bacino, in posizione di piega alta, oppure mantieni per meno tempo. Pi\u00f9 difficile: stacca brevemente i piedi dal muro. Contrai l'addome per non inarcare la schiena e scendi se le braccia cedono."
+        },
+        "0000002c": {
+            "name": "Tenuta a barchetta",
+            "instructions": "Sdraiati sulla schiena con le gambe tese e le braccia sopra la testa. Premi la zona lombare a terra, solleva spalle e gambe di qualche centimetro e mantieni, con il corpo lungo e leggermente curvo.",
+            "tips": "Pi\u00f9 facile: piega le ginocchia e tieni le mani lungo i fianchi. Pi\u00f9 difficile: distendi le braccia sopra la testa e abbassa le gambe verso il pavimento. Se la schiena si inarca, solleva di pi\u00f9 le gambe."
+        },
+        "0000002d": {
+            "name": "Apertura a V",
+            "instructions": "Sdraiati sulla schiena con le gambe tese e le braccia sopra la testa. Solleva insieme gambe e busto a formare una V, con le mani verso i piedi. Scendi con controllo.",
+            "tips": "Pi\u00f9 facile: piega le ginocchia, oppure solleva solo le gambe. Pi\u00f9 difficile: fermati in alto, oppure scendi pi\u00f9 lentamente senza toccare il pavimento. Muoviti con l'addome ed evita di darti slancio."
+        },
+        "0000002e": {
+            "name": "Stacco a una gamba",
+            "instructions": "In piedi su un piede con il ginocchio leggermente piegato. Inclinati in avanti dai fianchi mentre allunghi l'altra gamba dietro di te, poi risali contraendo il gluteo. Cambia gamba dopo la serie.",
+            "tips": "Pi\u00f9 facile: appoggia la punta del piede libero a terra, oppure tieniti a un muro. Pi\u00f9 difficile: rallenta il movimento e fermati in basso. Tieni il bacino in piano e la schiena dritta."
+        },
+        "0000002f": {
+            "name": "Affondo con salto",
+            "instructions": "Parti in affondo. Salta e scambia le gambe in aria, atterrando in affondo dall'altro lato. Atterra morbidamente e tieni il busto eretto.",
+            "tips": "Pi\u00f9 facile: fai l'affondo normale, con un passo al posto del salto. Pi\u00f9 difficile: scendi di pi\u00f9 oppure vai pi\u00f9 veloce. Il ginocchio davanti resta sopra la caviglia; fermati quando l'atterraggio diventa pesante."
+        },
+        "00000030": {
+            "name": "Piegamento a mani larghe",
+            "instructions": "Parti in posizione di piegamento con le mani nettamente pi\u00f9 larghe delle spalle. Abbassa il petto verso il pavimento con i gomiti verso l'esterno, poi spingi per risalire.",
+            "tips": "Pi\u00f9 facile: dalle ginocchia o con le mani su una parete. Pi\u00f9 difficile: rallenta la discesa o fermati vicino al pavimento. Tieni il corpo in linea retta e il collo rilassato."
+        },
+        "00000031": {
+            "name": "Affondo all'indietro",
+            "instructions": "In piedi, fai un passo indietro con un piede e scendi finch\u00e9 entrambe le ginocchia sono piegate a circa 90 gradi, poi spingi con il piede avanti per risalire e alterna la gamba a ogni ripetizione.",
+            "tips": "Pi\u00f9 facile: passo pi\u00f9 corto o appoggio a una parete. Pi\u00f9 difficile: fermati in basso. Tieni il busto eretto e il ginocchio davanti sopra la caviglia."
+        },
+        "00000032": {
+            "name": "Affondo incrociato",
+            "instructions": "In piedi, porta un piede indietro e dietro l'altra gamba, piega entrambe le ginocchia, poi torna in piedi e alterna le gambe.",
+            "tips": "Pi\u00f9 facile: passo pi\u00f9 piccolo o appoggio a una parete. Pi\u00f9 difficile: fermati in basso. Tieni i fianchi rivolti in avanti e il ginocchio davanti in linea con le punte."
+        },
+        "00000033": {
+            "name": "Squat sumo",
+            "instructions": "In piedi con i piedi molto pi\u00f9 larghi del bacino e le punte in fuori. Piega le ginocchia sopra le punte e abbassa il bacino, poi risali.",
+            "tips": "Pi\u00f9 facile: scendi solo a met\u00e0. Pi\u00f9 difficile: fermati in basso o rallenta la discesa. Tieni il petto alto e le ginocchia nella stessa direzione delle punte."
+        },
+        "00000034": {
+            "name": "Squat profondo in tenuta",
+            "instructions": "In piedi con i piedi un po' pi\u00f9 larghi delle spalle, scendi in uno squat profondo con i talloni a terra. Resta in posizione, spingendo i gomiti contro l'interno delle ginocchia.",
+            "tips": "Pi\u00f9 facile: tieniti a una parete o a uno stipite, oppure solleva i talloni su un asciugamano piegato. Pi\u00f9 difficile: resta pi\u00f9 a lungo senza appoggio. Tieni il petto alto e respira lentamente."
+        },
+        "00000035": {
+            "name": "Squat cosacco",
+            "instructions": "In piedi con i piedi molto larghi. Sposta il peso su un lato piegando a fondo quel ginocchio, mentre l'altra gamba resta tesa con le punte verso l'alto, poi torna e cambia lato.",
+            "tips": "Pi\u00f9 facile: esegui un affondo laterale meno profondo. Pi\u00f9 difficile: fermati in basso. Tieni il tallone della gamba piegata a terra e il petto alto."
+        },
+        "00000036": {
+            "name": "Salto del pattinatore",
+            "instructions": "Salta lateralmente da un piede all'altro come un pattinatore, atterrando morbidamente su un ginocchio piegato e portando l'altra gamba dietro di te.",
+            "tips": "Pi\u00f9 facile: fai un passo invece del salto. Pi\u00f9 difficile: allunga il salto. Atterra con morbidezza e tieni il ginocchio in linea con le punte."
+        },
+        "00000037": {
+            "name": "Plank su e gi\u00f9",
+            "instructions": "Parti in plank sugli avambracci. Spingi su una mano e poi sull'altra fino al plank sulle mani, poi torna sugli avambracci un braccio alla volta. Alterna il braccio che guida.",
+            "tips": "Pi\u00f9 facile: dalle ginocchia. Pi\u00f9 difficile: vai pi\u00f9 veloce o tieni i piedi vicini. Tieni il bacino fermo e l'addome contratto."
+        },
+        "00000038": {
+            "name": "Plank con salto",
+            "instructions": "In plank sulle mani, salta aprendo i piedi e richiudendoli, come un salto a stella con le mani a terra.",
+            "tips": "Pi\u00f9 facile: porta fuori un piede alla volta. Pi\u00f9 difficile: vai pi\u00f9 veloce. Tieni i fianchi in linea e le spalle sopra i polsi."
+        },
+        "00000039": {
+            "name": "Squat thrust",
+            "instructions": "Da in piedi, scendi in squat e appoggia le mani a terra, salta con i piedi indietro in plank sulle mani, salta di nuovo verso le mani e risali.",
+            "tips": "Pi\u00f9 facile: porta i piedi avanti e indietro a passi. Pi\u00f9 difficile: aggiungi un salto in alto. Tieni la schiena piatta nel plank."
+        },
+        "0000003a": {
+            "name": "Alzata a T da proni",
+            "instructions": "Sdraiati a pancia in gi\u00f9 con le braccia aperte ai lati all'altezza delle spalle. Solleva braccia e petto di poco, avvicinando le scapole, resta in alto e abbassa.",
+            "tips": "Pi\u00f9 facile: solleva meno. Pi\u00f9 difficile: resta pi\u00f9 a lungo in alto. Tieni il collo lungo e guarda il pavimento."
+        },
+        "0000003b": {
+            "name": "Ponte per i glutei con marcia",
+            "instructions": "Sdraiato sulla schiena con le ginocchia piegate, solleva il bacino nel ponte. Tenendo i fianchi allineati, solleva un piede, appoggialo e passa all'altro.",
+            "tips": "Pi\u00f9 facile: esegui il ponte semplice. Pi\u00f9 difficile: rallenta la marcia. Evita che il bacino scenda o ruoti."
+        },
+        "0000003c": {
+            "name": "Tocco dei talloni",
+            "instructions": "Sdraiato sulla schiena con le ginocchia piegate, solleva leggermente le spalle. Porta una mano verso il tallone dello stesso lato, poi l'altra.",
+            "tips": "Pi\u00f9 facile: tieni la testa a terra. Pi\u00f9 difficile: solleva di pi\u00f9 le spalle. Tieni la schiena bassa a terra e il collo rilassato."
+        },
+        "0000003d": {
+            "name": "Ponte a rana",
+            "instructions": "Sdraiato sulla schiena con le piante dei piedi unite e le ginocchia aperte. Solleva il bacino contraendo i glutei, resta un istante e abbassa.",
+            "tips": "Pi\u00f9 facile: solleva meno. Pi\u00f9 difficile: fermati in alto. Spingi sui lati dei piedi ed evita di inarcare la schiena."
+        },
+        "0000003e": {
+            "name": "Verme",
+            "instructions": "In piedi, piegati in avanti e appoggia le mani a terra. Cammina con le mani in avanti fino al plank sulle mani, poi avvicina i piedi alle mani e risali.",
+            "tips": "Pi\u00f9 facile: piega le ginocchia quanto serve. Pi\u00f9 difficile: aggiungi un piegamento nel plank. Tieni l'addome contratto mentre ti allunghi."
+        },
+        "0000003f": {
+            "name": "Burpee",
+            "instructions": "Da in piedi, accovacciati e appoggia le mani a terra, salta con i piedi indietro in plank, abbassa il petto, spingi su, riporta i piedi sotto di te e salta con le braccia in alto.",
+            "tips": "Pi\u00f9 facile: vai avanti e indietro a passi senza piegamento e salto. Pi\u00f9 difficile: aggiungi un piegamento in basso. Tieni la schiena piatta nel plank e atterra con morbidezza."
+        },
+        "00000040": {
+            "name": "Camminata dell'orso",
+            "instructions": "Su mani e piedi con le ginocchia appena sollevate da terra, avanza e indietreggia muovendo insieme mano e piede opposti.",
+            "tips": "Pi\u00f9 facile: fai pochi passi in ogni direzione. Pi\u00f9 difficile: vai pi\u00f9 veloce. Tieni la schiena piatta e il bacino basso."
+        },
+        "00000041": {
+            "name": "Piegamento a V",
+            "instructions": "Dal plank sulle mani, avvicina i piedi alle mani in modo che il bacino punti al soffitto. Piega i gomiti portando la testa verso il pavimento, poi spingi per risalire.",
+            "tips": "Pi\u00f9 facile: tieni i piedi pi\u00f9 lontani dalle mani. Pi\u00f9 difficile: rallenta la discesa. Tieni le gambe tese e porta la testa tra le mani."
+        },
+        "00000042": {
+            "name": "Ginocchio al gomito in piedi",
+            "instructions": "In piedi, porta un ginocchio in alto e di lato mentre il gomito opposto scende a incontrarlo, poi cambia lato a ritmo costante.",
+            "tips": "Pi\u00f9 facile: tocca la coscia solo con la mano. Pi\u00f9 difficile: vai pi\u00f9 veloce. Stai eretto ed evita di inclinarti indietro."
+        },
+        "00000043": {
+            "name": "Crunch obliquo in piedi",
+            "instructions": "In piedi, solleva un ginocchio di lato mentre porti lo stesso gomito verso di esso, flettendoti lateralmente, poi cambia lato.",
+            "tips": "Pi\u00f9 facile: solleva meno il ginocchio. Pi\u00f9 difficile: esegui lentamente contraendo. Tieni la gamba d'appoggio leggermente piegata e l'equilibrio stabile."
+        },
+        "00000044": {
+            "name": "Rotazione del busto in piedi",
+            "instructions": "In piedi con i piedi alla larghezza del bacino e le braccia aperte ai lati, ruota il busto da un lato e poi dall'altro, tenendo i fianchi rivolti in avanti.",
+            "tips": "Pi\u00f9 facile: riduci il movimento. Pi\u00f9 difficile: vai pi\u00f9 veloce con controllo. Ruota dalla vita e tieni le ginocchia morbide."
+        },
+        "00000045": {
+            "name": "Stretching dei tricipiti",
+            "instructions": "Solleva un braccio e piega il gomito in modo che la mano scenda dietro la testa. Con l'altra mano spingi dolcemente il gomito indietro. Resta in posizione, poi cambia braccio.",
+            "tips": "Pi\u00f9 facile: spingi meno. Pi\u00f9 difficile: resta pi\u00f9 a lungo. Tieni le costole basse e non spingere fino al dolore."
+        },
+        "00000046": {
+            "name": "Stretching delle spalle incrociato",
+            "instructions": "Porta un braccio teso davanti al petto e tienilo appena sopra il gomito con l'altro braccio. Resta in posizione, poi cambia braccio.",
+            "tips": "Pi\u00f9 facile: tira meno. Pi\u00f9 difficile: resta pi\u00f9 a lungo. Tieni le spalle basse e rilassate."
+        },
+        "00000047": {
+            "name": "Fire hydrant",
+            "instructions": "A quattro zampe, mantenendo il ginocchio piegato a 90 gradi, solleva un ginocchio di lato, resta un istante e abbassa. Ripeti dall'altro lato.",
+            "tips": "Pi\u00f9 facile: solleva meno. Pi\u00f9 difficile: fermati in alto. Tieni i fianchi allineati e la schiena piatta."
+        },
+        "00000048": {
+            "name": "Conchiglia",
+            "instructions": "Sdraiato su un fianco con le ginocchia piegate e i piedi uniti. Tenendo i piedi a contatto, solleva il ginocchio superiore, resta un istante e abbassa. Ripeti dall'altro lato.",
+            "tips": "Pi\u00f9 facile: solleva meno. Pi\u00f9 difficile: fermati in alto. Tieni i fianchi sovrapposti e non ruotare all'indietro."
+        },
+        "00000049": {
+            "name": "Gatto-mucca",
+            "instructions": "A quattro zampe, arrotonda la schiena e abbassa il mento, poi lascia scendere l'addome e solleva la testa. Passa lentamente da una posizione all'altra.",
+            "tips": "Pi\u00f9 facile: riduci il movimento. Pi\u00f9 difficile: rallenta. Tieni le braccia tese e respira seguendo il movimento."
+        },
+        "0000004a": {
+            "name": "Cerchi con il bacino",
+            "instructions": "In piedi con i piedi alla larghezza delle spalle e le mani sui fianchi, disegna cerchi ampi e lenti con il bacino. Cambia direzione a met\u00e0.",
+            "tips": "Pi\u00f9 facile: fai cerchi pi\u00f9 piccoli. Pi\u00f9 difficile: fai cerchi pi\u00f9 grandi. Tieni le spalle ferme e le ginocchia morbide."
+        },
+        "0000004b": {
+            "name": "Rotazione toracica",
+            "instructions": "A quattro zampe, porta una mano dietro la testa. Ruota quel gomito verso il basso, verso il braccio opposto, poi aprilo verso il soffitto seguendolo con lo sguardo. Ripeti, poi cambia lato.",
+            "tips": "Pi\u00f9 facile: riduci il movimento. Pi\u00f9 difficile: fermati in alto. Ruota dalla parte alta della schiena, tenendo i fianchi fermi."
+        },
+        "0000004c": {
+            "name": "Lo stretching pi\u00f9 completo",
+            "instructions": "Fai un affondo profondo e appoggia entrambe le mani all'interno del piede avanti. Ruota il busto e solleva il braccio interno verso il soffitto, poi abbassalo e cambia gamba.",
+            "tips": "Pi\u00f9 facile: tieni il ginocchio dietro a terra. Pi\u00f9 difficile: resta pi\u00f9 a lungo in ogni posizione. Tieni il ginocchio davanti sopra la caviglia."
+        },
+        "0000004d": {
+            "name": "Oscillazioni della gamba",
+            "instructions": "In piedi, tenendoti a una parete per l'equilibrio, oscilla una gamba avanti e indietro in modo controllato. Cambia gamba al termine del tempo.",
+            "tips": "Pi\u00f9 facile: oscilla pi\u00f9 in basso. Pi\u00f9 difficile: oscilla pi\u00f9 in alto. Stai eretto e tieni morbido il ginocchio d'appoggio."
+        },
+        "0000004e": {
+            "name": "Stretching dei flessori dell'anca",
+            "instructions": "Inginocchiati su un ginocchio con l'altro piede davanti. Retroverti il bacino e spostalo dolcemente in avanti fino a sentire l'allungamento davanti all'anca dietro. Resta in posizione, poi cambia gamba.",
+            "tips": "Pi\u00f9 facile: imbottisci il ginocchio con un asciugamano piegato. Pi\u00f9 difficile: solleva il braccio del lato della gamba dietro. Tieni il busto eretto e non inarcare la schiena."
+        },
+        "0000004f": {
+            "name": "Cobra",
+            "instructions": "Sdraiato a pancia in gi\u00f9 con le mani sotto le spalle. Premi sulle mani per sollevare il petto, tenendo il bacino a terra, e resta in posizione.",
+            "tips": "Pi\u00f9 facile: resta pi\u00f9 basso sugli avambracci. Pi\u00f9 difficile: distendi di pi\u00f9 le braccia. Tieni le spalle lontane dalle orecchie e il collo lungo."
+        },
+        "00000050": {
+            "name": "Stretching a quattro in piedi",
+            "instructions": "In piedi vicino a una parete per l'equilibrio, appoggia una caviglia sul ginocchio opposto e porta il bacino indietro come per sederti. Resta in posizione, poi cambia gamba.",
+            "tips": "Pi\u00f9 facile: stai pi\u00f9 alto. Pi\u00f9 difficile: siediti pi\u00f9 in basso. Tieni il piede incrociato flesso per proteggere il ginocchio."
+        },
+        "00000051": {
+            "name": "Flessione in avanti da seduti",
+            "instructions": "Seduto a terra con le gambe tese, piegati in avanti dai fianchi e allunga le mani verso i piedi, tenendo la schiena lunga. Resta in posizione.",
+            "tips": "Pi\u00f9 facile: piega leggermente le ginocchia. Pi\u00f9 difficile: allunga di pi\u00f9. Non forzare e continua a respirare."
+        },
+        "00000052": {
+            "name": "Stretching del petto allo stipite",
+            "instructions": "In piedi accanto a una parete o a uno stipite, con il gomito piegato a 90 gradi e l'avambraccio appoggiato. Ruota dolcemente il corpo in direzione opposta fino a sentire l'allungamento del petto. Resta in posizione, poi cambia braccio.",
+            "tips": "Pi\u00f9 facile: ruota meno. Pi\u00f9 difficile: solleva un po' di pi\u00f9 il braccio. Tieni la spalla bassa e rilassata."
+        },
+        "00000053": {
+            "name": "Battito di gambe",
+            "instructions": "Sdraiato sulla schiena con le gambe tese e leggermente sollevate dal pavimento. Muovi le gambe su e gi\u00f9 con piccoli movimenti alternati.",
+            "tips": "Pi\u00f9 facile: metti le mani sotto il bacino. Pi\u00f9 difficile: solleva testa e spalle. Tieni la schiena bassa a terra."
+        },
+        "00000054": {
+            "name": "Crunch inverso",
+            "instructions": "Sdraiato sulla schiena con le ginocchia piegate sopra il bacino. Solleva il bacino da terra portando le ginocchia verso il petto, resta un istante e abbassa lentamente.",
+            "tips": "Pi\u00f9 facile: solleva il bacino solo di poco. Pi\u00f9 difficile: rallenta la discesa. Non dondolare: solleva con l'addome."
+        },
+        "00000055": {
+            "name": "Calci ai glutei",
+            "instructions": "Corri sul posto, portando ogni tallone verso i glutei e tenendo le ginocchia rivolte verso il basso.",
+            "tips": "Pi\u00f9 facile: corri piano. Pi\u00f9 difficile: vai pi\u00f9 veloce. Resta sull'avampiede e tieni il busto eretto."
+        },
+        "00000056": {
+            "name": "Rotazioni del collo",
+            "instructions": "In piedi, lascia cadere dolcemente la testa su un lato e ruotala lentamente in avanti fino all'altro lato. Cambia direzione a met\u00e0 del tempo.",
+            "tips": "Pi\u00f9 facile: fai un cerchio pi\u00f9 piccolo. Pi\u00f9 difficile: vai pi\u00f9 lentamente. Tieni le spalle basse e rilassate e non forzare mai il movimento."
+        },
+        "00000057": {
+            "name": "Cerchi con le caviglie",
+            "instructions": "In piedi su una gamba (tieniti a una parete se serve), solleva leggermente l'altro piede e disegna cerchi lenti con la punta. Cambia direzione a met\u00e0, poi cambia piede.",
+            "tips": "Pi\u00f9 facile: tieni la punta a terra. Pi\u00f9 difficile: fai cerchi pi\u00f9 grandi. Muovi la caviglia, non la gamba."
+        },
+        "00000058": {
+            "name": "Salto della rana",
+            "instructions": "Scendi in uno squat profondo con le mani tra i piedi, poi salta in avanti e in alto, oscillando le braccia, e atterra con morbidezza di nuovo nello squat profondo.",
+            "tips": "Pi\u00f9 facile: salta meno in alto. Pi\u00f9 difficile: salta pi\u00f9 lontano. Atterra con morbidezza e le ginocchia sopra le punte."
+        }
+    },
+    "metronomes": {
+        "00000001": {
+            "name": "2P-U-4 Gi\u00f9-su",
+            "phaseNames": [
+                "Gi\u00f9",
+                "Su"
+            ]
+        },
+        "00000002": {
+            "name": "2P-U-4 Su-gi\u00f9",
+            "phaseNames": [
+                "Su",
+                "Gi\u00f9"
+            ]
+        },
+        "00000003": {
+            "name": "2P-U-4 Dondolio",
+            "phaseNames": [
+                "Avanti",
+                "Indietro"
+            ]
+        },
+        "00000004": {
+            "name": "3P-3-1-1 Discesa lenta",
+            "phaseNames": [
+                "Gi\u00f9",
+                "Pausa",
+                "Su"
+            ]
+        },
+        "00000005": {
+            "name": "4P-2-1-2-1 Alza-pausa",
+            "phaseNames": [
+                "Alza",
+                "Pausa",
+                "Abbassa",
+                "Riposo"
+            ]
+        },
+        "00000006": {
+            "name": "3P-U-6 Alza-pausa-abbassa",
+            "phaseNames": [
+                "Alza",
+                "Pausa",
+                "Abbassa"
+            ]
+        },
+        "00000007": {
+            "name": "3P-U-6 Inclina-pausa-su",
+            "phaseNames": [
+                "Inclina",
+                "Pausa",
+                "Su"
+            ]
+        },
+        "00000008": {
+            "name": "4P-U-4 Su-pausa-gi\u00f9",
+            "phaseNames": [
+                "Su",
+                "Pausa",
+                "Gi\u00f9",
+                "Riposo"
+            ]
+        },
+        "00000009": {
+            "name": "4P-U-4 Estendi-pausa",
+            "phaseNames": [
+                "Estendi",
+                "Pausa",
+                "Ritorna",
+                "Riposo"
+            ]
+        },
+        "0000000a": {
+            "name": "4P-U-4 Sinistra-centro-destra",
+            "phaseNames": [
+                "Sinistra",
+                "Centro",
+                "Destra",
+                "Centro"
+            ]
+        },
+        "0000000b": {
+            "name": "2P-U-1 Cambio rapido",
+            "phaseNames": [
+                "Sinistra",
+                "Destra"
+            ]
+        },
+        "0000000c": {
+            "name": "2P-U-2 Sinistra-destra",
+            "phaseNames": [
+                "Sinistra",
+                "Destra"
+            ]
+        },
+        "0000000d": {
+            "name": "2P-U-2 Fuori-dentro",
+            "phaseNames": [
+                "Fuori",
+                "Dentro"
+            ]
+        },
+        "0000000e": {
+            "name": "2P-U-2 Gi\u00f9-salto",
+            "phaseNames": [
+                "Gi\u00f9",
+                "Salta"
+            ]
+        },
+        "0000000f": {
+            "name": "2P-U-10 Stringi-rilascia",
+            "phaseNames": [
+                "Stringi",
+                "Rilascia"
+            ]
+        },
+        "00000010": {
+            "name": "4P-U-6 Una gamba",
+            "phaseNames": [
+                "Gi\u00f9",
+                "Pausa",
+                "Su",
+                "Riposo"
+            ]
+        }
+    },
+    "workouts": {
+        "00000001": {
+            "name": "Tutto il corpo - Principiante",
+            "blocks": [
+                "Riscaldamento",
+                "Gambe",
+                "Parte superiore",
+                "Addome",
+                "Tutto il corpo",
+                "Defaticamento"
+            ]
+        },
+        "00000002": {
+            "name": "Tutto il corpo - Avanzato",
+            "blocks": [
+                "Riscaldamento",
+                "Gambe",
+                "Spinta",
+                "Addome",
+                "Tutto il corpo",
+                "Defaticamento"
+            ]
+        },
+        "00000003": {
+            "name": "Tutto il corpo - Eroe",
+            "blocks": [
+                "Riscaldamento",
+                "Potenza",
+                "Spinta",
+                "Addome",
+                "Tutto il corpo",
+                "Finale",
+                "Defaticamento"
+            ]
+        },
+        "00000004": {
+            "name": "Core - Principiante",
+            "blocks": [
+                "Riscaldamento",
+                "Addominali",
+                "Stabilit\u00e0",
+                "Obliqui",
+                "Addome basso",
+                "Defaticamento"
+            ]
+        },
+        "00000005": {
+            "name": "Core - Avanzato",
+            "blocks": [
+                "Riscaldamento",
+                "Addominali",
+                "Stabilit\u00e0",
+                "Rotazioni",
+                "Barchetta e sollevamenti",
+                "Defaticamento"
+            ]
+        },
+        "00000006": {
+            "name": "Core - Eroe",
+            "blocks": [
+                "Riscaldamento",
+                "Addominali",
+                "Stabilit\u00e0",
+                "Barchetta e sollevamenti",
+                "Finale",
+                "Defaticamento"
+            ]
+        },
+        "00000007": {
+            "name": "Braccia e spalle - Principiante",
+            "blocks": [
+                "Riscaldamento",
+                "Spinta",
+                "Spalle e schiena",
+                "Braccia",
+                "Stabilit\u00e0",
+                "Defaticamento"
+            ]
+        },
+        "00000008": {
+            "name": "Braccia e spalle - Avanzato",
+            "blocks": [
+                "Riscaldamento",
+                "Spinta",
+                "Spalle e schiena",
+                "Braccia",
+                "Tenute",
+                "Defaticamento"
+            ]
+        },
+        "00000009": {
+            "name": "Braccia e spalle - Eroe",
+            "blocks": [
+                "Riscaldamento",
+                "Spinta",
+                "Spalle e schiena",
+                "Braccia",
+                "Schiena",
+                "Finale",
+                "Defaticamento"
+            ]
+        },
+        "0000000a": {
+            "name": "Gambe e glutei - Principiante",
+            "blocks": [
+                "Riscaldamento",
+                "Squat",
+                "Glutei",
+                "Affondi",
+                "Polpacci ed equilibrio",
+                "Defaticamento"
+            ]
+        },
+        "0000000b": {
+            "name": "Gambe e glutei - Avanzato",
+            "blocks": [
+                "Riscaldamento",
+                "Squat",
+                "Affondi",
+                "Glutei",
+                "Parte posteriore delle gambe",
+                "Defaticamento"
+            ]
+        },
+        "0000000c": {
+            "name": "Gambe e glutei - Eroe",
+            "blocks": [
+                "Riscaldamento",
+                "Potenza",
+                "Forza",
+                "Resistenza",
+                "Glutei",
+                "Defaticamento"
+            ]
+        },
+        "0000000d": {
+            "name": "Flessibilit\u00e0 e mobilit\u00e0 - Principiante",
+            "blocks": [
+                "Riscaldamento",
+                "Colonna",
+                "Anche",
+                "Spalle",
+                "Parte posteriore delle gambe",
+                "Defaticamento"
+            ]
+        },
+        "0000000e": {
+            "name": "Flessibilit\u00e0 e mobilit\u00e0 - Avanzato",
+            "blocks": [
+                "Riscaldamento",
+                "Sequenza di mobilit\u00e0",
+                "Anche",
+                "Agilit\u00e0",
+                "Spalle",
+                "Defaticamento"
+            ]
+        },
+        "0000000f": {
+            "name": "Tutto il corpo in piedi - Principiante",
+            "blocks": [
+                "Riscaldamento",
+                "Gambe",
+                "Parte superiore alla parete",
+                "Addome in piedi",
+                "Cardio",
+                "Defaticamento"
+            ]
+        },
+        "00000010": {
+            "name": "Tutto il corpo in piedi - Avanzato",
+            "blocks": [
+                "Riscaldamento",
+                "Gambe",
+                "Equilibrio e gambe",
+                "Addome in piedi",
+                "Cardio",
+                "Defaticamento"
+            ]
+        }
+    }
+}

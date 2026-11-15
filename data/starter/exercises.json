@@ -1,0 +1,1040 @@
+{
+    "format": "workout-trainer-starter",
+    "version": 1,
+    "exercises": [
+        {
+            "id": "00000001",
+            "colour": "green",
+            "icon": "wall-push-up",
+            "muscles": [
+                "upper-chest",
+                "triceps",
+                "shoulders"
+            ],
+            "metronome": "00000001"
+        },
+        {
+            "id": "00000002",
+            "colour": "green",
+            "icon": "knee-push-up",
+            "muscles": [
+                "lower-chest",
+                "upper-chest",
+                "triceps",
+                "shoulders",
+                "core"
+            ],
+            "metronome": "00000004"
+        },
+        {
+            "id": "00000003",
+            "colour": "green",
+            "icon": "arm-circles",
+            "muscles": [
+                "shoulders",
+                "trapezius"
+            ]
+        },
+        {
+            "id": "00000004",
+            "colour": "green",
+            "icon": "superman",
+            "muscles": [
+                "lower-back",
+                "glutes",
+                "mid-back",
+                "trapezius"
+            ],
+            "metronome": "00000006"
+        },
+        {
+            "id": "00000005",
+            "colour": "green",
+            "icon": "prone-y-raise",
+            "muscles": [
+                "trapezius",
+                "mid-back",
+                "shoulders"
+            ],
+            "metronome": "00000006"
+        },
+        {
+            "id": "00000006",
+            "colour": "green",
+            "icon": "crunch",
+            "muscles": [
+                "core"
+            ],
+            "metronome": "00000008"
+        },
+        {
+            "id": "00000007",
+            "colour": "green",
+            "icon": "dead-bug",
+            "muscles": [
+                "core",
+                "lower-abdomen"
+            ],
+            "metronome": "00000009"
+        },
+        {
+            "id": "00000008",
+            "colour": "green",
+            "icon": "bird-dog",
+            "muscles": [
+                "lower-back",
+                "glutes",
+                "core",
+                "shoulders"
+            ],
+            "metronome": "00000009"
+        },
+        {
+            "id": "00000009",
+            "colour": "green",
+            "icon": "glute-bridge",
+            "muscles": [
+                "glutes",
+                "hamstrings",
+                "lower-back"
+            ],
+            "metronome": "00000005"
+        },
+        {
+            "id": "0000000a",
+            "colour": "green",
+            "icon": "donkey-kick",
+            "muscles": [
+                "glutes",
+                "hamstrings"
+            ],
+            "metronome": "00000005"
+        },
+        {
+            "id": "0000000b",
+            "colour": "green",
+            "icon": "side-leg-raise",
+            "muscles": [
+                "glutes"
+            ],
+            "metronome": "00000005"
+        },
+        {
+            "id": "0000000c",
+            "colour": "green",
+            "icon": "squat",
+            "muscles": [
+                "quadriceps",
+                "glutes",
+                "hamstrings"
+            ],
+            "metronome": "00000001"
+        },
+        {
+            "id": "0000000d",
+            "colour": "green",
+            "icon": "wall-sit",
+            "muscles": [
+                "quadriceps",
+                "glutes"
+            ]
+        },
+        {
+            "id": "0000000e",
+            "colour": "green",
+            "icon": "calf-raise",
+            "muscles": [
+                "calves"
+            ],
+            "metronome": "00000002"
+        },
+        {
+            "id": "0000000f",
+            "colour": "green",
+            "icon": "good-morning",
+            "muscles": [
+                "hamstrings",
+                "lower-back",
+                "glutes"
+            ],
+            "metronome": "00000007"
+        },
+        {
+            "id": "00000010",
+            "colour": "green",
+            "icon": "jumping-jack",
+            "muscles": [
+                "shoulders",
+                "calves",
+                "quadriceps"
+            ],
+            "metronome": "0000000d"
+        },
+        {
+            "id": "00000011",
+            "colour": "green",
+            "icon": "high-knees",
+            "muscles": [
+                "quadriceps",
+                "lower-abdomen",
+                "calves"
+            ],
+            "metronome": "0000000b"
+        },
+        {
+            "id": "00000012",
+            "colour": "green",
+            "icon": "plank",
+            "muscles": [
+                "core",
+                "lower-abdomen",
+                "shoulders"
+            ]
+        },
+        {
+            "id": "00000013",
+            "colour": "green",
+            "icon": "child-pose",
+            "muscles": [
+                "lats",
+                "lower-back",
+                "shoulders"
+            ]
+        },
+        {
+            "id": "00000014",
+            "colour": "green",
+            "icon": "hamstring-stretch",
+            "muscles": [
+                "hamstrings",
+                "calves"
+            ]
+        },
+        {
+            "id": "00000015",
+            "colour": "green",
+            "icon": "standing-quad-stretch",
+            "muscles": [
+                "quadriceps"
+            ]
+        },
+        {
+            "id": "00000016",
+            "colour": "green",
+            "icon": "heel-walk",
+            "muscles": [
+                "shins"
+            ],
+            "metronome": "0000000c"
+        },
+        {
+            "id": "00000017",
+            "colour": "green",
+            "icon": "wall-angel",
+            "muscles": [
+                "trapezius",
+                "mid-back",
+                "shoulders"
+            ],
+            "metronome": "00000008"
+        },
+        {
+            "id": "00000018",
+            "colour": "green",
+            "icon": "self-resisted-curl",
+            "muscles": [
+                "biceps",
+                "forearms"
+            ],
+            "metronome": "0000000f"
+        },
+        {
+            "id": "00000019",
+            "colour": "green",
+            "icon": "wrist-rock",
+            "muscles": [
+                "forearms"
+            ],
+            "metronome": "00000003"
+        },
+        {
+            "id": "0000001a",
+            "colour": "yellow",
+            "icon": "push-up",
+            "muscles": [
+                "lower-chest",
+                "upper-chest",
+                "triceps",
+                "shoulders",
+                "core"
+            ],
+            "metronome": "00000004"
+        },
+        {
+            "id": "0000001b",
+            "colour": "yellow",
+            "icon": "push-up",
+            "muscles": [
+                "triceps",
+                "upper-chest",
+                "shoulders"
+            ],
+            "metronome": "00000004"
+        },
+        {
+            "id": "0000001c",
+            "colour": "yellow",
+            "icon": "shoulder-tap",
+            "muscles": [
+                "shoulders",
+                "core",
+                "obliques"
+            ]
+        },
+        {
+            "id": "0000001d",
+            "colour": "yellow",
+            "icon": "prone-sweep",
+            "muscles": [
+                "lats",
+                "mid-back",
+                "trapezius"
+            ],
+            "metronome": "00000006"
+        },
+        {
+            "id": "0000001e",
+            "colour": "yellow",
+            "icon": "lunge",
+            "muscles": [
+                "quadriceps",
+                "glutes",
+                "hamstrings"
+            ],
+            "metronome": "00000004"
+        },
+        {
+            "id": "0000001f",
+            "colour": "yellow",
+            "icon": "side-lunge",
+            "muscles": [
+                "glutes",
+                "quadriceps",
+                "hamstrings"
+            ],
+            "metronome": "00000004"
+        },
+        {
+            "id": "00000020",
+            "colour": "yellow",
+            "icon": "bicycle-crunch",
+            "muscles": [
+                "core",
+                "obliques",
+                "lower-abdomen"
+            ],
+            "metronome": "0000000a"
+        },
+        {
+            "id": "00000021",
+            "colour": "yellow",
+            "icon": "russian-twist",
+            "muscles": [
+                "obliques",
+                "core"
+            ],
+            "metronome": "0000000a"
+        },
+        {
+            "id": "00000022",
+            "colour": "yellow",
+            "icon": "mountain-climber",
+            "muscles": [
+                "core",
+                "lower-abdomen",
+                "shoulders",
+                "quadriceps"
+            ],
+            "metronome": "0000000b"
+        },
+        {
+            "id": "00000023",
+            "colour": "yellow",
+            "icon": "sit-up",
+            "muscles": [
+                "core",
+                "lower-abdomen"
+            ],
+            "metronome": "00000008"
+        },
+        {
+            "id": "00000024",
+            "colour": "yellow",
+            "icon": "side-plank",
+            "muscles": [
+                "obliques",
+                "core",
+                "shoulders"
+            ]
+        },
+        {
+            "id": "00000025",
+            "colour": "yellow",
+            "icon": "leg-raise",
+            "muscles": [
+                "lower-abdomen",
+                "core"
+            ],
+            "metronome": "00000008"
+        },
+        {
+            "id": "00000026",
+            "colour": "yellow",
+            "icon": "glute-bridge",
+            "muscles": [
+                "glutes",
+                "hamstrings",
+                "lower-back"
+            ],
+            "metronome": "00000005"
+        },
+        {
+            "id": "00000027",
+            "colour": "yellow",
+            "icon": "calf-raise",
+            "muscles": [
+                "calves"
+            ],
+            "metronome": "00000002"
+        },
+        {
+            "id": "00000028",
+            "colour": "yellow",
+            "icon": "squat",
+            "muscles": [
+                "quadriceps",
+                "glutes",
+                "calves"
+            ],
+            "metronome": "0000000e"
+        },
+        {
+            "id": "00000029",
+            "colour": "red",
+            "icon": "push-up",
+            "muscles": [
+                "upper-chest",
+                "lower-chest",
+                "triceps",
+                "shoulders"
+            ],
+            "metronome": "00000004"
+        },
+        {
+            "id": "0000002a",
+            "colour": "red",
+            "icon": "pistol-squat",
+            "muscles": [
+                "quadriceps",
+                "glutes",
+                "hamstrings",
+                "calves"
+            ],
+            "metronome": "00000010"
+        },
+        {
+            "id": "0000002b",
+            "colour": "red",
+            "icon": "wall-handstand-hold",
+            "muscles": [
+                "shoulders",
+                "triceps",
+                "trapezius",
+                "core"
+            ]
+        },
+        {
+            "id": "0000002c",
+            "colour": "red",
+            "icon": "hollow-hold",
+            "muscles": [
+                "core",
+                "lower-abdomen"
+            ]
+        },
+        {
+            "id": "0000002d",
+            "colour": "red",
+            "icon": "v-up",
+            "muscles": [
+                "core",
+                "lower-abdomen"
+            ],
+            "metronome": "00000008"
+        },
+        {
+            "id": "0000002e",
+            "colour": "red",
+            "icon": "single-leg-hinge",
+            "muscles": [
+                "hamstrings",
+                "glutes",
+                "lower-back"
+            ],
+            "metronome": "00000007"
+        },
+        {
+            "id": "0000002f",
+            "colour": "red",
+            "icon": "lunge",
+            "muscles": [
+                "quadriceps",
+                "glutes",
+                "calves"
+            ],
+            "metronome": "0000000e"
+        },
+        {
+            "id": "00000030",
+            "colour": "yellow",
+            "icon": "push-up",
+            "muscles": [
+                "lower-chest",
+                "upper-chest",
+                "shoulders",
+                "triceps"
+            ],
+            "metronome": "00000004"
+        },
+        {
+            "id": "00000031",
+            "colour": "yellow",
+            "icon": "lunge",
+            "muscles": [
+                "quadriceps",
+                "glutes",
+                "hamstrings"
+            ],
+            "metronome": "00000004"
+        },
+        {
+            "id": "00000032",
+            "colour": "yellow",
+            "icon": "lunge",
+            "muscles": [
+                "glutes",
+                "quadriceps",
+                "hamstrings"
+            ],
+            "metronome": "00000004"
+        },
+        {
+            "id": "00000033",
+            "colour": "green",
+            "icon": "squat",
+            "muscles": [
+                "quadriceps",
+                "glutes",
+                "hamstrings"
+            ],
+            "metronome": "00000001"
+        },
+        {
+            "id": "00000034",
+            "colour": "green",
+            "icon": "squat",
+            "muscles": [
+                "quadriceps",
+                "glutes",
+                "hamstrings"
+            ]
+        },
+        {
+            "id": "00000035",
+            "colour": "red",
+            "icon": "side-lunge",
+            "muscles": [
+                "quadriceps",
+                "glutes",
+                "hamstrings"
+            ],
+            "metronome": "00000004"
+        },
+        {
+            "id": "00000036",
+            "colour": "yellow",
+            "icon": "side-lunge",
+            "muscles": [
+                "quadriceps",
+                "glutes",
+                "calves"
+            ],
+            "metronome": "0000000e"
+        },
+        {
+            "id": "00000037",
+            "colour": "yellow",
+            "icon": "plank",
+            "muscles": [
+                "core",
+                "triceps",
+                "shoulders"
+            ]
+        },
+        {
+            "id": "00000038",
+            "colour": "yellow",
+            "icon": "plank",
+            "muscles": [
+                "core",
+                "shoulders",
+                "quadriceps",
+                "calves"
+            ]
+        },
+        {
+            "id": "00000039",
+            "colour": "yellow",
+            "icon": "mountain-climber",
+            "muscles": [
+                "quadriceps",
+                "core",
+                "shoulders"
+            ],
+            "metronome": "0000000c"
+        },
+        {
+            "id": "0000003a",
+            "colour": "green",
+            "icon": "prone-y-raise",
+            "muscles": [
+                "trapezius",
+                "mid-back",
+                "shoulders"
+            ],
+            "metronome": "00000006"
+        },
+        {
+            "id": "0000003b",
+            "colour": "yellow",
+            "icon": "glute-bridge",
+            "muscles": [
+                "glutes",
+                "hamstrings",
+                "core"
+            ],
+            "metronome": "0000000a"
+        },
+        {
+            "id": "0000003c",
+            "colour": "green",
+            "icon": "crunch",
+            "muscles": [
+                "core",
+                "obliques"
+            ],
+            "metronome": "0000000a"
+        },
+        {
+            "id": "0000003d",
+            "colour": "green",
+            "icon": "glute-bridge",
+            "muscles": [
+                "glutes"
+            ],
+            "metronome": "00000005"
+        },
+        {
+            "id": "0000003e",
+            "colour": "yellow",
+            "icon": "push-up",
+            "muscles": [
+                "core",
+                "shoulders",
+                "hamstrings",
+                "triceps"
+            ]
+        },
+        {
+            "id": "0000003f",
+            "colour": "red",
+            "icon": "burpee",
+            "muscles": [
+                "quadriceps",
+                "glutes",
+                "shoulders",
+                "upper-chest",
+                "core"
+            ],
+            "metronome": "00000008"
+        },
+        {
+            "id": "00000040",
+            "colour": "yellow",
+            "icon": "bear-crawl",
+            "muscles": [
+                "shoulders",
+                "core",
+                "quadriceps"
+            ]
+        },
+        {
+            "id": "00000041",
+            "colour": "red",
+            "icon": "pike-push-up",
+            "muscles": [
+                "shoulders",
+                "triceps",
+                "upper-chest",
+                "trapezius"
+            ],
+            "metronome": "00000004"
+        },
+        {
+            "id": "00000042",
+            "colour": "green",
+            "icon": "knee-to-elbow",
+            "muscles": [
+                "core",
+                "obliques",
+                "lower-abdomen"
+            ]
+        },
+        {
+            "id": "00000043",
+            "colour": "green",
+            "icon": "oblique-crunch",
+            "muscles": [
+                "obliques",
+                "core"
+            ]
+        },
+        {
+            "id": "00000044",
+            "colour": "green",
+            "icon": "torso-rotation",
+            "muscles": [
+                "obliques",
+                "core"
+            ]
+        },
+        {
+            "id": "00000045",
+            "colour": "green",
+            "icon": "triceps-stretch",
+            "muscles": [
+                "triceps",
+                "shoulders"
+            ]
+        },
+        {
+            "id": "00000046",
+            "colour": "green",
+            "icon": "cross-body-stretch",
+            "muscles": [
+                "shoulders",
+                "trapezius"
+            ]
+        },
+        {
+            "id": "00000047",
+            "colour": "green",
+            "icon": "fire-hydrant",
+            "muscles": [
+                "glutes"
+            ],
+            "metronome": "00000005"
+        },
+        {
+            "id": "00000048",
+            "colour": "green",
+            "icon": "clamshell",
+            "muscles": [
+                "glutes"
+            ],
+            "metronome": "00000005"
+        },
+        {
+            "id": "00000049",
+            "colour": "green",
+            "icon": "cat-cow",
+            "muscles": [
+                "lower-back",
+                "mid-back",
+                "core"
+            ],
+            "metronome": "00000003"
+        },
+        {
+            "id": "0000004a",
+            "colour": "green",
+            "icon": "hip-circles",
+            "muscles": [
+                "lower-back",
+                "glutes",
+                "core"
+            ]
+        },
+        {
+            "id": "0000004b",
+            "colour": "green",
+            "icon": "thoracic-rotation",
+            "muscles": [
+                "mid-back",
+                "obliques",
+                "shoulders"
+            ],
+            "metronome": "00000003"
+        },
+        {
+            "id": "0000004c",
+            "colour": "yellow",
+            "icon": "worlds-greatest-stretch",
+            "muscles": [
+                "hamstrings",
+                "glutes",
+                "quadriceps",
+                "mid-back"
+            ]
+        },
+        {
+            "id": "0000004d",
+            "colour": "green",
+            "icon": "leg-swings",
+            "muscles": [
+                "hamstrings",
+                "glutes",
+                "quadriceps"
+            ]
+        },
+        {
+            "id": "0000004e",
+            "colour": "green",
+            "icon": "hip-flexor-stretch",
+            "muscles": [
+                "quadriceps",
+                "glutes"
+            ]
+        },
+        {
+            "id": "0000004f",
+            "colour": "green",
+            "icon": "cobra",
+            "muscles": [
+                "lower-back",
+                "upper-chest",
+                "core"
+            ]
+        },
+        {
+            "id": "00000050",
+            "colour": "green",
+            "icon": "figure-four",
+            "muscles": [
+                "glutes"
+            ]
+        },
+        {
+            "id": "00000051",
+            "colour": "green",
+            "icon": "seated-forward-fold",
+            "muscles": [
+                "hamstrings",
+                "lower-back"
+            ]
+        },
+        {
+            "id": "00000052",
+            "colour": "green",
+            "icon": "chest-stretch",
+            "muscles": [
+                "upper-chest",
+                "shoulders"
+            ]
+        },
+        {
+            "id": "00000053",
+            "colour": "yellow",
+            "icon": "flutter-kick",
+            "muscles": [
+                "lower-abdomen",
+                "core"
+            ]
+        },
+        {
+            "id": "00000054",
+            "colour": "yellow",
+            "icon": "reverse-crunch",
+            "muscles": [
+                "lower-abdomen",
+                "core"
+            ],
+            "metronome": "00000008"
+        },
+        {
+            "id": "00000055",
+            "colour": "green",
+            "icon": "butt-kicks",
+            "muscles": [
+                "hamstrings",
+                "calves"
+            ],
+            "metronome": "0000000b"
+        },
+        {
+            "id": "00000056",
+            "colour": "green",
+            "icon": "neck-rolls",
+            "muscles": [
+                "trapezius"
+            ]
+        },
+        {
+            "id": "00000057",
+            "colour": "green",
+            "icon": "ankle-circles",
+            "muscles": [
+                "calves",
+                "shins"
+            ]
+        },
+        {
+            "id": "00000058",
+            "colour": "red",
+            "icon": "frog-jump",
+            "muscles": [
+                "quadriceps",
+                "glutes",
+                "calves"
+            ],
+            "metronome": "0000000e"
+        }
+    ],
+    "metronomes": [
+        {
+            "id": "00000001",
+            "phases": [
+                4,
+                4
+            ]
+        },
+        {
+            "id": "00000002",
+            "phases": [
+                4,
+                4
+            ]
+        },
+        {
+            "id": "00000003",
+            "phases": [
+                4,
+                4
+            ]
+        },
+        {
+            "id": "00000004",
+            "phases": [
+                6,
+                2,
+                2
+            ]
+        },
+        {
+            "id": "00000005",
+            "phases": [
+                4,
+                2,
+                4,
+                2
+            ]
+        },
+        {
+            "id": "00000006",
+            "phases": [
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "id": "00000007",
+            "phases": [
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "id": "00000008",
+            "phases": [
+                2,
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "id": "00000009",
+            "phases": [
+                2,
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "id": "0000000a",
+            "phases": [
+                2,
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "id": "0000000b",
+            "phases": [
+                1,
+                1
+            ]
+        },
+        {
+            "id": "0000000c",
+            "phases": [
+                2,
+                2
+            ]
+        },
+        {
+            "id": "0000000d",
+            "phases": [
+                2,
+                2
+            ]
+        },
+        {
+            "id": "0000000e",
+            "phases": [
+                2,
+                2
+            ]
+        },
+        {
+            "id": "0000000f",
+            "phases": [
+                10,
+                10
+            ]
+        },
+        {
+            "id": "00000010",
+            "phases": [
+                3,
+                3,
+                3,
+                3
+            ]
+        }
+    ]
+}
