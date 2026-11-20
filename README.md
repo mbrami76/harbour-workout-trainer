@@ -28,8 +28,8 @@ The exercises, workouts and loads (durations, repetitions, rests) that come with
 - The screen stays on during a workout. The workout pauses when the app loses the foreground (call, lock screen, another app) and waits until you resume it.
 - Export and import of workouts as JSON.
 - A silent log of sessions, kept for the history and statistics screens planned for version 2.
-- Staistics
-- Spoekn exercise cues with custom text, using internal offline TTS engine.
+- Statistics
+- Spoken exercise cues with custom text, using internal offline TTS engine.
 
 ## Requirements
 
